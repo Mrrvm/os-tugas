@@ -4,6 +4,7 @@ tags:
   - poetry
   - rhythm
   - precarity
+  - INCLUDED
 bib: Azagaia. Combatentes da Fortuna. 2009. Accessed May 6th, 2025. https://www.youtube.com/watch?v=pVu8R-VWCKs.
 link: https://www.youtube.com/watch?v=pVu8R-VWCKs
 ---

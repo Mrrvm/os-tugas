@@ -9,6 +9,7 @@ tags:
   - rhythm
   - INCLUDED
   - ruins
+  - C
 bib: Camões, Luís. Os Lusíadas, 4th ed. Preface by Álvaro Júlio da Costa Pimpão, Presentation by António Pinheiro de Castro. Instituto Camões, Ministério dos Negócios Estrangeiros. 2000.
 ---
 Written by [[Camões]] (1524-1580). He began writing in 1550 and it was published in 1572.  Sebastian (1554) became king in 1557 and took control of the throne in 1568 (14 years old). When he went to North Africa in 1578, he was 24. Sebastian’s disastrous campaign led to Portugal’s decline and eventual annexation by Spain in 1580 (when Camões died).

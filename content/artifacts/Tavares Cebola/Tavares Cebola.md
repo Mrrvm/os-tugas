@@ -1,9 +1,7 @@
 ---
 tags:
-  
   - moçambique
   - external-partner
-  - INCLUDED
   - music
 link: https://www.nytimes.com/by/tavares-cebola
 other: https://www.instagram.com/rizomamz/

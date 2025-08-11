@@ -1,11 +1,9 @@
 ---
 tags:
-  
   - portugal
   - external-partner
   - algarve
   - netherlands
-  - INCLUDED
 link: https://marianaaboim.hotglue.me/
 ---
 Mariana is a Portuguese artist based in Rotterdam, who explores how the "endurance of white cisheteropatriarchy manifests itself on the body".

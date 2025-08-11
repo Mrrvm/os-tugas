@@ -1,11 +1,9 @@
 ---
 tags:
-  
   - netherlands
   - external-partner
   - diaspora
   - caboverde
-  - "#INCLUDED"
 to-dos: |-
   [] Talk to Rolando Vazquez Melken
   [] Talk to Amy Suowu

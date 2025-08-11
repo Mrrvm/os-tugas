@@ -36,6 +36,9 @@ https://www.cgd.pt/Institucional/Caixa-Cultura/Pages/Caixa-Cultura.aspx
 
 https://gulbenkian.pt/apoios-lista/apoio-a-criacao-artistica/
 
+http://livro.dglab.gov.pt/sites/DGLB/Portugues/BolsasCriacaoLiteraria/Paginas/Apoios.aspx
+https://www.portugal.gov.pt/pt/gc24/comunicacao/comunicado?i=ministerio-da-cultura-lanca-bolsas-anuais-de-criacao-literaria-2025
+
 ---
 ## thought log
 This is where I share my thoughts throughout the process of making.
