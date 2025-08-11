@@ -156,3 +156,14 @@ lei da nacionalidade, no voting rights till today
 marco mendonca - reparations baby
 
 https://www.instagram.com/p/DLnCddkt3RB/?igsh=MTU0czdwZncyZWlmbw==
+
+sophia de mello breyner - navegacoes https://youtu.be/zywXSq9eids?si=gSbacq0UxB0bfpUc
+
+os negros - jean genet https://www.teatrogriot.com/os-negros
+https://visao.pt/visaose7e/ver/2017-10-05-Os-Negros-Uma-peca-de-teatro-para-pensar-a-negritude/
+
+https://www.imdb.com/title/tt1754333/ pacific overtures https://www.youtube.com/watch?v=P9UDB_w_l4s
+
+https://podcasts.apple.com/pt/podcast/falando-de-hist%C3%B3ria/id1540898569 Falando de História
+
+filme nigeria https://en.wikipedia.org/wiki/West_Indies:_The_Fugitive_Slaves_of_Liberty
