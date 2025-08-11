@@ -157,6 +157,9 @@ marco mendonca - reparations baby
 
 https://www.instagram.com/p/DLnCddkt3RB/?igsh=MTU0czdwZncyZWlmbw==
 
+-----
+Milton references
+
 sophia de mello breyner - navegacoes https://youtu.be/zywXSq9eids?si=gSbacq0UxB0bfpUc
 
 os negros - jean genet https://www.teatrogriot.com/os-negros
@@ -167,3 +170,6 @@ https://www.imdb.com/title/tt1754333/ pacific overtures https://www.youtube.com/
 https://podcasts.apple.com/pt/podcast/falando-de-hist%C3%B3ria/id1540898569 Falando de História
 
 filme nigeria https://en.wikipedia.org/wiki/West_Indies:_The_Fugitive_Slaves_of_Liberty
+https://www.imdb.com/title/tt0080125/  ---- MUITO BOM
+
+------
