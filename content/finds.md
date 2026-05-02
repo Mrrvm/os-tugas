@@ -198,5 +198,9 @@ https://www.instagram.com/p/DXHg0rKGALB/?igsh=MWo5bzlwbmN6dmMzaA%3D%3D
 https://www.instagram.com/p/DXju8R4jFUI/?img_index=5&igsh=bHhibWt4M3d4bXVr
 MORABEZA
 
-Gonçalo M Tavares - viagens à india 
 
+referencias do carlos
+----
+Gonçalo M Tavares - viagens à india 
+prost - a procura do tempo perdido
+ninguem é nenhures - vergilio godinho (serie de contos tradicionais portugueses, inicio dos anos 60, usa a linguagem da zona às vezes não se percebe sem saber a g´ria)
