@@ -172,4 +172,31 @@ https://podcasts.apple.com/pt/podcast/falando-de-hist%C3%B3ria/id1540898569 Fala
 filme nigeria https://en.wikipedia.org/wiki/West_Indies:_The_Fugitive_Slaves_of_Liberty
 https://www.imdb.com/title/tt0080125/  ---- MUITO BOM
 
+https://www.rtp.pt/play/p3168/e314629/filhos-da-nacao
+
+https://aventurasnahistoria.com.br/noticias/reportagem/jornalista-que-resgatou-o-passado-de-sua-familia-e-revelou-detalhes-sobre-o-comercio-de-escravizados.phtml
 ------
+https://www.youtube.com/watch?v=RPSAiuA3NiQ
+
+https://www.coffeepaste.com/artigo/angelo-delgado-racismo-e-ficcao/
+
+https://www.instagram.com/novas_narrativas?igsh=MW00ZzkxeTk1MDJsZA%3D%3D NOVAS NARRATIVAS DE CAÇA
+
+![[Pasted image 20260427192906.png]]
+
+https://www.youtube.com/watch?v=RPSAiuA3NiQ&list=RDRPSAiuA3NiQ&start_radio=1
+
+Hinu digra - Tristany Mundu
+https://www.instagram.com/reels/audio/865766597249722?igsh=M2Nma2Rkb2dwb3Z4
+
+cria_pt
+https://www.instagram.com/p/DXHg0rKGALB/?igsh=MWo5bzlwbmN6dmMzaA%3D%3D
+
+![[Pasted image 20260428022257.png]]
+
+
+https://www.instagram.com/p/DXju8R4jFUI/?img_index=5&igsh=bHhibWt4M3d4bXVr
+MORABEZA
+
+Gonçalo M Tavares - viagens à india 
+
