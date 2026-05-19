@@ -214,3 +214,15 @@ https://www.instagram.com/dplx_rbgng?igsh=dmdteXZwMGQxbDBl
 lingua tupi
 
 filmes 2720, de Basil da Cunha, e Solo de Vidro, de Achiraf Djakpa e Jonathan Leggett.
+
+---
+
+https://www.projectmanifest.eu/dr-vania-gala/
+
+https://www.ubueditora.com.br/ecologia-decolonial.html
+Uma ecologia decolonial – Pensar a partir do mundo caribenho
+[Malcom Ferdinand](https://www.ubueditora.com.br/autor/malcom-ferdinand.html/)
+
+https://revistacult.uol.com.br/home/lelia-gonzalez-pretugues-psicanalise/
+
+https://www.procomum.org/wp-content/uploads/2019/04/necropolitica.pdf
