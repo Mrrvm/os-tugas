@@ -204,3 +204,13 @@ referencias do carlos
 Gonçalo M Tavares - viagens à india 
 prost - a procura do tempo perdido
 ninguem é nenhures - vergilio godinho (serie de contos tradicionais portugueses, inicio dos anos 60, usa a linguagem da zona às vezes não se percebe sem saber a g´ria)
+
+
+---
+
+meu bairro, minha lingua
+https://www.instagram.com/dplx_rbgng?igsh=dmdteXZwMGQxbDBl
+
+lingua tupi
+
+filmes 2720, de Basil da Cunha, e Solo de Vidro, de Achiraf Djakpa e Jonathan Leggett.
