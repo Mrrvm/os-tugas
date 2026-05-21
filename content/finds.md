@@ -226,3 +226,5 @@ Uma ecologia decolonial – Pensar a partir do mundo caribenho
 https://revistacult.uol.com.br/home/lelia-gonzalez-pretugues-psicanalise/
 
 https://www.procomum.org/wp-content/uploads/2019/04/necropolitica.pdf
+
+pepetela
