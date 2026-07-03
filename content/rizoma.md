@@ -10,6 +10,6 @@
 | Tavares Cebola      | S                    |                 |         |
 | Ivo Sengo           | S                    |                 |         |
 | Milton              | S                    |                 |         |
-| Gabriel             |                      |                 |         |
+| Gabriel Freitas     |                      |                 |         |
 |                     |                      |                 |         |
 | Mariana Tembé       | N                    |                 |         |
