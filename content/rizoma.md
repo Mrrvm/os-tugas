@@ -4,9 +4,9 @@
 | Sandim Mendes       | S                    |                 |         |                  |
 | Mariana Aboim       | S                    |                 |         |                  |
 | Margarida Agostinho | S                    | S               |         |                  |
-| Sandra Tavares      | S                    | S               |         |                  |
+| Sandra Tavares      | S                    | S               |         | Sent             |
 | Diego Silva         | S                    | S               |         |                  |
-| Sofia Ó             | S                    | S               |         |                  |
+| Sofia Ó             | S                    | S               |         | Sent             |
 | Tavares Cebola      | S                    |                 |         |                  |
 | Ivo Sengo           | S                    | S               |         |                  |
 | Milton              | S                    | S               |         |                  |
