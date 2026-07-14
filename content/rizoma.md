@@ -9,7 +9,7 @@
 | Sofia Ó                | S                    | S               |               | Done             |
 | Milton                 | S                    | S               |               | Done             |
 | Sanchez                | S                    | S               |               | Sent             |
-| Ivo Sengo              | S                    | S               |               |                  |
+| Ivo Sengo              | S                    | S               |               | Sent             |
 | Tavares Cebola         | S                    | S               |               | Sent             |
 | Gabriel Freitas        | S                    | S               |               | Sent             |
 | Helder Tavares         |                      | S               |               |                  |
