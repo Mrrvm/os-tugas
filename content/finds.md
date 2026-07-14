@@ -234,3 +234,14 @@ O diabo padeiro Mario Lucio Sousa
  Mário Pinto de Andrade
 
 https://memoire-esclavage.org
+
+
+Jewish Portuguese dialect
+
+Cristao novos
+
+Morgados
+
+Synagogue in Cabo Verde - Santo anto
+
+Casa comum fundação Mario soares, http://casacomum.org/cc/arquivos
