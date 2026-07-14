@@ -10,7 +10,7 @@
 | Milton                 | S                    | S               |               | Sent             |
 | Sanchez                | S                    | S               |               | Sent             |
 | Ivo Sengo              | S                    | S               |               |                  |
-| Tavares Cebola         | S                    |                 |               |                  |
+| Tavares Cebola         | S                    | S               |               | Sent             |
 | Gabriel Freitas        | S                    |                 |               |                  |
 | Helder Tavares         |                      | S               |               |                  |
 | Mariana Tembé          |                      |                 |               |                  |
