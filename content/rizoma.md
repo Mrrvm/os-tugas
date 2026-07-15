@@ -34,3 +34,4 @@
 | Irineu Destourelles    |                      |                 |               |                  |
 | Brito Guterres         |                      |                 |               |                  |
 | Panaibra Gabriel Canda |                      |                 |               |                  |
+| Gio Lourenço           |                      |                 |               |                  |
