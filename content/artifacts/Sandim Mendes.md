@@ -1,7 +1,6 @@
 ---
 tags:
   - netherlands
-  - external-partner
   - diaspora
   - caboverde
 to-dos: |-

@@ -1,7 +1,6 @@
 ---
 tags:
   - portugal
-  - external-partner
   - algarve
   - netherlands
 link: https://marianaaboim.hotglue.me/
