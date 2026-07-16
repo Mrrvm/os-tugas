@@ -5,6 +5,7 @@ tags:
 bib: Almada e Santos, A. "Portugal and the invention of the Atlantic trade of enslaved people, 15-16th centuries". Project MANIFEST. 2023. https://www.projectmanifest.eu/portugal-and-the-invention-of-the-atlantic-trade-of-enslaved-people-15-16th-centuries/
 link: https://www.projectmanifest.eu/portugal-and-the-invention-of-the-atlantic-trade-of-enslaved-people-15-16th-centuries/
 ---
+
 "From 1501 until 1875, the Portuguese traffic in slaves affected an estimated 6 million Africans."
 
 "The first move towards expansion was the capture of Ceuta, in Morocco, followed by the settlement in the Atlantic islands, the expeditions along the African coast, the voyage to India and the exploration of Brazil."
@@ -31,6 +32,6 @@ link: https://www.projectmanifest.eu/portugal-and-the-invention-of-the-atlantic-
 
 "As the largest forced human migration in history, the transatlantic trade of enslaved people involved an estimated 10 to 15 million men, women and children between the 15th and 19th centuries. Portugal laid the foundations for this forced migration, establishing in the 15th and 16th centuries slaving networks across the Atlantic. These networks experienced further developments in the massive slave trade during the 18th and 19th centuries."
 
-**References** 
+**References**
 [[Quinta Essência]]
 [[A Nossa História]]

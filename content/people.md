@@ -1,4 +1,3 @@
-
 | Name                   | Asked to participate | Sent invitation | Waiting words | Mondriaan letter |
 | ---------------------- | -------------------- | --------------- | ------------- | ---------------- |
 | Sandim Mendes          | S                    |                 |               |                  |

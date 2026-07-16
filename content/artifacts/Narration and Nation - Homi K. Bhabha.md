@@ -1,11 +1,11 @@
 ---
 tags:
-  
   - national-identity
   - text
   - book
 bib: "Bhabha, Homi K., Nation and Narration. London: Routledge, 1990."
 ---
+
 ==Nations are stories and stories can be retold==
 
 **Introduction: narrating the nation**
@@ -31,9 +31,8 @@ The nation-state is not only the by-product of the conditions created by Europea
 (...)
 European nationalism itself was motivated by what Europe was doing in its farflung dominions.”
 (...)
-The 'national idea', in other words, flourished in the soil of foreign conquest. 
+The 'national idea', in other words, flourished in the soil of foreign conquest.
 (...)
 According to Kohn, modern nationalism took three concepts from Old Testament mythology: 'the idea of a chosen people, the emphasis on a common stock of memory of the past and of hopes for the future, and finally national messianism'.48 If the concept of superiority ('chosen people') characterizes the outlook of the European adventurer, it is the Hebraic underdog, the sense of being an outcast people, that characterizes the other
 
 **DissemiNation**
-

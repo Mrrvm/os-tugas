@@ -1,6 +1,5 @@
 ---
 tags:
-  
   - portugal
   - lisboa
   - glorification
@@ -9,4 +8,5 @@ tags:
   - rhythm
 bib: "Pessoa, Fernando. Mensagem. Lisbon: Parceria António Maria Pereira, 1934."
 ---
+
 ![[Mensagem - Fernando Pessoa 1.pdf]]

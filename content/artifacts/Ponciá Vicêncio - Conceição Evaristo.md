@@ -1,6 +1,5 @@
 ---
 tags:
-  
   - brasil
   - poetry
 ---

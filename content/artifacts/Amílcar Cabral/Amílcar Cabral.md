@@ -1,6 +1,5 @@
 ---
 tags:
-  
   - caboverde
   - guinebissau
 ---
@@ -17,4 +16,3 @@ https://memorial2019.org/dossier/amilcar-cabral/amilcar-cabral-obras-publicadas
 https://www.buala.org/en/to-read/amilcar-cabral-and-decolonization-today
 https://www.blackpast.org/global-african-history/1970-amilcar-cabral-national-liberation-and-culture/
 https://www.marxists.org/subject/africa/lsm/final-victory.pdf
-

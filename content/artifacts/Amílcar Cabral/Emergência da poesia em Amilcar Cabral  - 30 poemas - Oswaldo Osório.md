@@ -1,6 +1,5 @@
 ---
 tags:
-  
   - poetry
   - text
   - rhythm

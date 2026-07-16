@@ -2,6 +2,7 @@
 hideGraph: true
 noTags: true
 ---
+
 #national-identity
 https://www.bloomsbury.com/uk/legacies-of-the-portuguese-colonial-empire-9781350289796/
 https://www.jstor.org/stable/26771190
@@ -16,7 +17,7 @@ Mia Couto – _Sleepwalking Land_
 
 António Pinto Ribeiro – _Lusofonia e Lusofonia_ (2010)
 
-Homi Bhabha's concept of hybridity, 
+Homi Bhabha's concept of hybridity,
 
 Spivak's subaltern
 
@@ -24,15 +25,15 @@ https://arquivos.rtp.pt/programas/arte-de-ser-portugues/
 
 Ana Luísa Amaral
 
-Djaimilia Pereira de Almeida’s _Luar de Sangue_
+Djaimilia Pereira de Almeida’s *Luar de Sangue*
 
 _Un coup de dés jamais n’abolira le hasard_ and Livre Total (as rhizomatic experimental writing)
 
 Saidiya Hartman’s “Critical Fabulation”
 
-José Eduardo Agualusa’s _A General Theory of Oblivion_ weaves Kimbundu untranslated, forcing readers to confront their ignorance.
+José Eduardo Agualusa’s *A General Theory of Oblivion* weaves Kimbundu untranslated, forcing readers to confront their ignorance.
 
-Teju Cole’s _Tremor_, critiques translation as loss.
+Teju Cole’s *Tremor*, critiques translation as loss.
 
 https://catarinasimao.com/infos/
 
@@ -42,9 +43,9 @@ https://catarinasimao.com/nao-visitem-a-sala-colonial-do-not-visit-the-sala-colo
 
 https://en.wikipedia.org/wiki/Tetum_language
 
-Lília Momplé’s _Ninguém Matou Suhura_
+Lília Momplé’s *Ninguém Matou Suhura*
 
-Bonga’s _Mona Ki Ngi Xica_ (lived in rotterdam https://medium.com/@wordsinthebucket.com/mona-ki-ngi-xica-bonga-c3be01326b72)
+Bonga’s *Mona Ki Ngi Xica* (lived in rotterdam https://medium.com/@wordsinthebucket.com/mona-ki-ngi-xica-bonga-c3be01326b72)
 
 Djaimilia Pereira de Almeida
 
@@ -64,7 +65,7 @@ https://pt.wikipedia.org/wiki/Ant%C3%B3nio_Enes - Código de Trabalho Rural de 1
 Como Portugal tinha sido obrigado a ilegalizar o [comércio](https://pt.wikipedia.org/wiki/Com%C3%A9rcio "Comércio") de [escravos](https://pt.wikipedia.org/wiki/Escravo "Escravo") em 1842, apesar de fechar os olhos ao comércio clandestino, e não tinha condições para administrar todo o território, deu a estas companhias poderes para instituir e cobrar [impostos](https://pt.wikipedia.org/wiki/Imposto "Imposto"). Foi nessa altura que foi introduzido o "imposto de palhota", ou seja, a obrigatoriedade de cada [família](https://pt.wikipedia.org/wiki/Fam%C3%ADlia "Família") pagar um imposto em dinheiro; como a população nativa não estava habituada às trocas por dinheiro (para além de produzir para a própria sobrevivência), eram obrigados a trabalhar sob prisão - o [trabalho forçado](https://pt.wikipedia.org/wiki/Trabalho_for%C3%A7ado "Trabalho forçado"), chamado em Moçambique "chibalo"; mais tarde, as famílias nativas foram obrigadas a cultivar produtos de rendimento, como [algodão](https://pt.wikipedia.org/wiki/Algod%C3%A3o "Algodão") ou [tabaco](https://pt.wikipedia.org/wiki/Tabaco "Tabaco"), que eram comercializados por aquelas companhias.
 https://pt.wikipedia.org/wiki/Ngungunhane
 https://pt.wikipedia.org/wiki/Eduardo_Mondlane
-https://pt.wikipedia.org/wiki/Acordos_de_Lusaca  Ao abrigo desse acordo, foi formado um [Governo de Transição](https://pt.wikipedia.org/wiki/Governo_de_Transi%C3%A7%C3%A3o "Governo de Transição"), chefiado por [Joaquim Chissano](https://pt.wikipedia.org/wiki/Joaquim_Chissano "Joaquim Chissano"), que incluía [ministros](https://pt.wikipedia.org/w/index.php?title=Ministro_\(pol%C3%ADtica\)&action=edit&redlink=1 "Ministro (política) (página não existe)") nomeados pelo governo português e outros nomeados pela FRELIMO.
+https://pt.wikipedia.org/wiki/Acordos_de_Lusaca  Ao abrigo desse acordo, foi formado um [Governo de Transição](https://pt.wikipedia.org/wiki/Governo_de_Transi%C3%A7%C3%A3o "Governo de Transição"), chefiado por [Joaquim Chissano](https://pt.wikipedia.org/wiki/Joaquim_Chissano "Joaquim Chissano"), que incluía [ministros](<https://pt.wikipedia.org/w/index.php?title=Ministro_(pol%C3%ADtica)&action=edit&redlink=1> "Ministro (política) (página não existe)") nomeados pelo governo português e outros nomeados pela FRELIMO.
 https://pt.wikipedia.org/wiki/Samora_Machel
 
 Paulo Flores
@@ -86,7 +87,7 @@ https://www.researchgate.net/publication/347307767_From_'Natives'_to_'Aborigines
 
 Batepá Massacre
 
-https://www.worldofdiscoveries.com/about-us/ 
+https://www.worldofdiscoveries.com/about-us/
 
 https://en.wikipedia.org/wiki/Marrabenta
 
@@ -131,7 +132,7 @@ https://amensagem.pt/2023/12/08/tour-batoto-yetu-unveils-african-stories-lisbon/
 
 Renata Cambra https://www.youtube.com/watch?v=71gl1Y06JyY 25 abril
 
-eva cruzeiro rapper https://www.youtube.com/watch?v=-CfaQFbOeT4 
+eva cruzeiro rapper https://www.youtube.com/watch?v=-CfaQFbOeT4
 
 maria paula meneses
 
@@ -139,7 +140,7 @@ https://www.worldhistory.org/Portuguese_Empire/
 
 https://itvs.org/films/cuba-an-african-odyssey/
 
-https://en.wikipedia.org/wiki/Claridade _**Claridade**_ ([Portuguese](https://en.wikipedia.org/wiki/Portuguese_language "Portuguese language") for "light") was a literary review inaugurated in 1936 in the city of [Mindelo](https://en.wikipedia.org/wiki/Mindelo "Mindelo") on the island of [São Vicente](https://en.wikipedia.org/wiki/S%C3%A3o_Vicente,_Cape_Verde "São Vicente, Cape Verde"), [Cape Verde](https://en.wikipedia.org/wiki/Cape_Verde "Cape Verde").
+https://en.wikipedia.org/wiki/Claridade **_Claridade_** ([Portuguese](https://en.wikipedia.org/wiki/Portuguese_language "Portuguese language") for "light") was a literary review inaugurated in 1936 in the city of [Mindelo](https://en.wikipedia.org/wiki/Mindelo "Mindelo") on the island of [São Vicente](https://en.wikipedia.org/wiki/S%C3%A3o_Vicente,_Cape_Verde "São Vicente, Cape Verde"), [Cape Verde](https://en.wikipedia.org/wiki/Cape_Verde "Cape Verde").
 
 Agostinho Neto and Mario de Andrade from Angola, and Marcelino dos Santos
 
@@ -157,7 +158,8 @@ marco mendonca - reparations baby
 
 https://www.instagram.com/p/DLnCddkt3RB/?igsh=MTU0czdwZncyZWlmbw==
 
------
+---
+
 Milton references
 
 sophia de mello breyner - navegacoes https://youtu.be/zywXSq9eids?si=gSbacq0UxB0bfpUc
@@ -170,12 +172,12 @@ https://www.imdb.com/title/tt1754333/ pacific overtures https://www.youtube.com/
 https://podcasts.apple.com/pt/podcast/falando-de-hist%C3%B3ria/id1540898569 Falando de História
 
 filme nigeria https://en.wikipedia.org/wiki/West_Indies:_The_Fugitive_Slaves_of_Liberty
-https://www.imdb.com/title/tt0080125/  ---- MUITO BOM
+https://www.imdb.com/title/tt0080125/ ---- MUITO BOM
 
 https://www.rtp.pt/play/p3168/e314629/filhos-da-nacao
 
-https://aventurasnahistoria.com.br/noticias/reportagem/jornalista-que-resgatou-o-passado-de-sua-familia-e-revelou-detalhes-sobre-o-comercio-de-escravizados.phtml
-------
+## https://aventurasnahistoria.com.br/noticias/reportagem/jornalista-que-resgatou-o-passado-de-sua-familia-e-revelou-detalhes-sobre-o-comercio-de-escravizados.phtml
+
 https://www.youtube.com/watch?v=RPSAiuA3NiQ
 
 https://www.coffeepaste.com/artigo/angelo-delgado-racismo-e-ficcao/
@@ -194,17 +196,14 @@ https://www.instagram.com/p/DXHg0rKGALB/?igsh=MWo5bzlwbmN6dmMzaA%3D%3D
 
 ![[Pasted image 20260428022257.png]]
 
-
 https://www.instagram.com/p/DXju8R4jFUI/?img_index=5&igsh=bHhibWt4M3d4bXVr
 MORABEZA
 
+## referencias do carlos
 
-referencias do carlos
-----
-Gonçalo M Tavares - viagens à india 
+Gonçalo M Tavares - viagens à india
 prost - a procura do tempo perdido
 ninguem é nenhures - vergilio godinho (serie de contos tradicionais portugueses, inicio dos anos 60, usa a linguagem da zona às vezes não se percebe sem saber a g´ria)
-
 
 ---
 
@@ -234,7 +233,6 @@ O diabo padeiro Mario Lucio Sousa
  Mário Pinto de Andrade
 
 https://memoire-esclavage.org
-
 
 Jewish Portuguese dialect
 

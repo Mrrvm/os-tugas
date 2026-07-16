@@ -1,6 +1,5 @@
 ---
 tags:
-  
   - portugal
   - text
   - brasil
@@ -8,6 +7,7 @@ tags:
 bib: 'Vítor de Sousa, "As marcas do luso-tropicalismo nas intervenções do Presidente da República português (2016-2021)," Revista Ciências Humanas 14, no. 2 (2021): 10–24, https://doi.org/10.32813/2179-1120.2121.v14.n2.a744.'
 link: https://www.rchunitau.com.br/index.php/rch/article/view/744
 ---
+
 "De facto, logo na cerimónia de tomada de posse, Marcelo Rebelo de Sousa evoca passagens da denominada “história mítica de Portugal”, onde pontificam, por exemplo, o “Milagre de Ourique”, ou as “Cortes de Lamego”"
 
 "Num artigo de opinião assinado no Jornal de Negócios, o presidente da República é coerente com o seu discurso de tomada de posse, sustentando o alegado recorte diferenciador e único dos portugueses - em que navega o lusotropicalismo -, ==ao assinalar ser sua tarefa “conhecer a História e as suas lições, saber que somos dos melhores em vocação universal, em pontes entre culturas, civilizações e continentes, por geografia, mar, língua, comunidades espalhadas pelo mundo, aptidão invulgar para apreender e incluir”== (Sousa, 2016, s.p.)"^marcelo1

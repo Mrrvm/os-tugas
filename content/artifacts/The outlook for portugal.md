@@ -1,6 +1,5 @@
 ---
 tags:
-  
   - dictatorship
   - portugal
   - angola
@@ -9,6 +8,7 @@ tags:
 bib: Director of Central Intelligence. "The outlook for Portugal". National Intelligence Estimate, Number 27.2-59. United States Intelligence Board. 1959.
 link: https://www.cia.gov/readingroom/document/cia-rdp79r01012a013900010027-0
 ---
+
 "Portugal considers its territorial possessions overseas as integral parts of Portugals. It regards them as a symbol of its proud past and as essential to its international standing. Some are also valuable earners of foreign exchange and are potentially of great economic importance. Conse-quently, the Portuguese place top priority on the retention of every foreign holding, no matter how small or poor."
 
 "Portuguese policy in its overseas possessions is a curious mixture of indifference to the lot of the native, half-hearted efforts to elevate him from savagery, repression of all dissident voices, and cheerful assertion that in fact no problems exist."

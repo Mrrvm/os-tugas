@@ -1,6 +1,5 @@
 ---
 tags:
-  
   - angola
   - text
   - fiction

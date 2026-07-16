@@ -1,8 +1,7 @@
 ---
 tags:
-  
   - saotomeeprincipe
   - roças
 ---
-https://www.rtp.pt/programa/tv/p17917
 
+https://www.rtp.pt/programa/tv/p17917

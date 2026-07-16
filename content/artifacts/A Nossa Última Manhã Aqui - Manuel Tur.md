@@ -1,12 +1,11 @@
 ---
 tags:
-  
   - theater
   - performance
   - text
   - experimental-text
   - portugal
-  
+
   - angola
 ---
 

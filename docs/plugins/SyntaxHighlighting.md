@@ -1,7 +1,6 @@
 ---
 title: "SyntaxHighlighting"
 tags:
-
   - plugin/transformer
 ---
 

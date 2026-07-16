@@ -1,6 +1,5 @@
 ---
 tags:
-  
   - portugal
   - senegal
   - diaspora

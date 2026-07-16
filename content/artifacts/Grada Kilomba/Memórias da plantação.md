@@ -1,18 +1,22 @@
 ---
 tags:
-  
   - text
   - book
 link: https://www.ufrb.edu.br/ppgcom/images/MEMORIAS_DA_PLANTACAO_-_EPISODIOS_DE_RAC_1_GRADA.pdf
 bib: 'Kilomba, G. "Memórias da plantação: Episódios de racismo quotidiano". Trans. N. Quintas. Lisbon: Orfeu Negro, 2019.'
 ---
+
 ### Projection of the opressor
+
 The opressor projecting into the oppressed, becomes a victim - a mechanism to defend the ego -, alike the contemporary example of Israel/Palestine. In this mental place, the opressor allows themselves to blame land theft, resources theft, into the oppressed, e.g. imposing the mask into the enslaved peoples in plantations to prevent them from eating sugar cane, cacau or dirt, as if they were stealing what was theirs. What's more, refusing to see the bad in themselves, the opressor acts as if they are generous entity.
+
 ### Arrival to the island of Mozambique
+
 When arriving in the island, Camões describes the Portuguese as a peaceful entity, and the locals as a savage, or less savage if muslim (through Filiation, thus legitimisation - [[Poetics of Relation]]), group that is revengeful, and hateful. He describes them as if they are tricking the Portuguese into a sneaky deadly battle, when in fact the Portuguese were the ones who had just arrived. All of this is painted through the brush of the greek god Baco, trying to implant doubt into the locals to turn them against the Portuguese, because Baco wants them to fail in the route to India, to guarantee his continuous fame in the region. In this way, the Portuguese find a way to legitimise the violence and the killing - they tried to attack us. What's more, Camões frames the killing, or the yet-to-kill as a generous act of condescendence - through metaphors such as a lion should not use all its power around sheep, because the sheep will die with less - the lion is generous in its aggression, and is so violent and powerful that it doesn't need to show it off. Showing off is a behaviour of those who seek to hide their weakness.
+
 ### Citations
 
-"Esta dissociação evoca o facto de o sujeito *branco* se encontrar de alguma maneira dividido dentro de si, pois desenvolve duas atitudes para com uma realidade externa: só uma parte do ego - a parte "boa", que acolhe e é benévola - é vivida como "eu"; o resto - a parte "má", que rejeita e é malévola - projecta-se no "Outro" e é vivida como externa. O sujeito negro torna-se então ecrã de projecção daquilo que o sujeito branco teme admitir sobre si: neste case, que é o ladrão violento, o bandido indolente e malicioso. Estes aspectos aviltantes, tão intensos que provocam ansiedade, culpa ou vergonha são projectado externamente para que se lhes possa escapar."^memorias1
+"Esta dissociação evoca o facto de o sujeito _branco_ se encontrar de alguma maneira dividido dentro de si, pois desenvolve duas atitudes para com uma realidade externa: só uma parte do ego - a parte "boa", que acolhe e é benévola - é vivida como "eu"; o resto - a parte "má", que rejeita e é malévola - projecta-se no "Outro" e é vivida como externa. O sujeito negro torna-se então ecrã de projecção daquilo que o sujeito branco teme admitir sobre si: neste case, que é o ladrão violento, o bandido indolente e malicioso. Estes aspectos aviltantes, tão intensos que provocam ansiedade, culpa ou vergonha são projectado externamente para que se lhes possa escapar."^memorias1
 
 "(...) «a essência da repressão não é mais do que afastar algo da consciência, e mantê-lo à distância» (1923: 17). É aquele processo pelo qual as ideias incómodas – e as verdades incómodas – se tornam inconscientes, fora da consciência, dada a extrema ansiedade, culpa ou vergonha que provocam. Mas, sepultadas no inconsciente como segredos, permanecem latentes e podem ser a qualquer momento **reveladas**. A máscara que sela a boca do _sujeito negro_ impede que o _senhor branco_ ouça as verdades latentes de que se quer «afastar», de que quer «manter distância», nas margens, despercebidas e «silenciadas». Protege o _sujeito branco_, por assim dizer, de reconhecer o conhecimento da/o «Outra/o». Confrontado com os segredos colectivos e as verdades incómodas dessa _história tão suja³_, o _sujeito branco_ costuma dizer que «não sabe», «não entende», «não se lembra», «não acredita» ou «não ficou convencido». São expressões deste processo de repressão pelo qual o _sujeito resiste_ a tornar consciente a informação inconsciente; ou seja, quer tornar o **conhecido desconhecido**."
 
@@ -26,15 +30,15 @@ parece que toda a minha história está resumida nele.
 
 longa história de silêncio imposto. Um história de vozes torturadas, línguas interrompidas, de idiomas impostos, de discursos interrompidos e dos muitos lugares em que não podíamos entrar nem ficar para falar com as nossas vozes. Tudo isto parece escrito nestes versos.
 
-uma ânsia colectiva por ganhar voz 
+uma ânsia colectiva por ganhar voz
 
-por escrever e recuperar a nossa *história oculta*.
+por escrever e recuperar a nossa _história oculta_.
 
 obrigação moral
 
-não o *objecto*, mas o *sujeito*;
+não o _objecto_, mas o _sujeito_;
 
-de *objecto* à de *sujeito*
+de _objecto_ à de _sujeito_
 
 nesse espaço vazio que surge depois de nos opormos e resistirmos
 
@@ -46,15 +50,15 @@ como mera reencenação de um passado colonial, mas como realidade traumática q
 
 choque violente
 
-como no cenário da plantação, é aprisionado como o *outro* subordinado e exótico
+como no cenário da plantação, é aprisionado como o _outro_ subordinado e exótico
 
 nesse passado agonizante
 
-descrição de um instrumento colonial, uma máscara, como símbolo da política colonial e sádica *branca*
+descrição de um instrumento colonial, uma máscara, como símbolo da política colonial e sádica _branca_
 
 de silenciar a voz
 
-porque se deve fechar a boca do *sujeito* negro? O que teria o *sujeito branco* de ouvir?
+porque se deve fechar a boca do _sujeito_ negro? O que teria o _sujeito branco_ de ouvir?
 
 quem pode falar? Quem pode produzir conhecimento? Reconhece-se o conhecimento de quem?
 
@@ -72,7 +76,7 @@ Trata-se de um instrumento autêntico, bastante concreto, que durante três séc
 
 uma peça introduzida na boca
 
-presa entre a língua e o maxilar e fixada na nuca com dois cordões, um à volta do queixo e outro, do nariz e da testa. 
+presa entre a língua e o maxilar e fixada na nuca com dois cordões, um à volta do queixo e outro, do nariz e da testa.
 
 a máscara era usada oficialmente
 
@@ -90,9 +94,9 @@ querem, e precisam de, controlar
 
 a boca é também metáfora de posse
 
-Imagina-se que o *sujeito negro* que algo que pertence ao senhor *branco*, o fruto: cana-de-açúcar e as sementes de cacau. Ele quer comê-los, devorá-los, expropriando o senhor dos seus bens. 
+Imagina-se que o _sujeito negro_ que algo que pertence ao senhor _branco_, o fruto: cana-de-açúcar e as sementes de cacau. Ele quer comê-los, devorá-los, expropriando o senhor dos seus bens.
 
-plantação e os seu frutos 
+plantação e os seu frutos
 
 quem coloniza interpreta-o de maneira perversa, entende-o como sinal de roubo. "Nós tomamos o que é delas/es" transforma-se em "elas/eles tomam o que é nosso".
 
@@ -110,7 +114,7 @@ princesa nagô/ioruba capturada por traficantes europeus e levada para o Brasil.
 
 Anastácia foi o nome que lhe deram quando foi escravizada.
 
-obrigada a envergar uma pesada coleira de ferro 
+obrigada a envergar uma pesada coleira de ferro
 
 há quem alegue ter resistido aos avanços amorosos do senhor branco;
 
@@ -120,9 +124,9 @@ Após prolongado período de tormento
 
 entre Dezembro de 1817 e Janeiro de 1818
 
-impedir que comessem terra 
+impedir que comessem terra
 
-para cometerem suicídio 
+para cometerem suicídio
 
 simbolizar a brutalidade da escravatura
 
@@ -130,17 +134,17 @@ legado de racismo
 
 resistência heróica
 
-O *sujeito negro* transforma-se no inimigo intrusivo.
+O _sujeito negro_ transforma-se no inimigo intrusivo.
 
 vítima compassiva, que é obrigada a controlar
 
 o opressor torna-se o oprimido, e o oprimido, o tirano.
 
-Esta dissociação evoca o facto de o sujeito *branco* se encontrar de alguma maneira dividido dentro de si, pois desenvolve duas atitudes para com uma realidade externa: só uma parte do ego - a parte "boa", que acolhe e é benévola - é vivida como "eu"; o resto - a parte "má", que rejeita e é malévola - projecta-se no "Outro" e é vivida como externa. O sujeito *negro* torna-se então ecrã de projecção daquilo que o sujeito *branco* teme admitir sobre si: neste caso, que é o ladrão violento, o bandido indolente e malicioso. Estes aspectos aviltantes, tão intensos que provocam ansiedade, culpa ou vergonha são projectado externamente para que se lhes possa escapar.
+Esta dissociação evoca o facto de o sujeito _branco_ se encontrar de alguma maneira dividido dentro de si, pois desenvolve duas atitudes para com uma realidade externa: só uma parte do ego - a parte "boa", que acolhe e é benévola - é vivida como "eu"; o resto - a parte "má", que rejeita e é malévola - projecta-se no "Outro" e é vivida como externa. O sujeito _negro_ torna-se então ecrã de projecção daquilo que o sujeito _branco_ teme admitir sobre si: neste caso, que é o ladrão violento, o bandido indolente e malicioso. Estes aspectos aviltantes, tão intensos que provocam ansiedade, culpa ou vergonha são projectado externamente para que se lhes possa escapar.
 
-a *branquitude*
+a _branquitude_
 
-que personifica todos os aspectos que a sociedade *branca* reprimiu ou tornou tabu, ou seja, agressividade e a sexualidade.
+que personifica todos os aspectos que a sociedade _branca_ reprimiu ou tornou tabu, ou seja, agressividade e a sexualidade.
 
 ameaçador, perigoso, violento, vibrante, empolgante, e também com o que é sujo mas desejável,
 
@@ -150,9 +154,9 @@ própria se perceber como moralmente ideal, decente, civilizada e majestosamente
 
 dinâmica infeliz
 
-"dissemelhança" para descrever a *branquitude* como identidade dependente graças à exploração do "Outro",
+"dissemelhança" para descrever a _branquitude_ como identidade dependente graças à exploração do "Outro",
 
-fantasias essas que não nos representam a nós, mas ao imaginário *branco*
+fantasias essas que não nos representam a nós, mas ao imaginário _branco_
 
 imagens oficiais e objectivas
 
@@ -189,7 +193,7 @@ Encerado dentro do que não é racional.
 
 não radica apenas em acontecimentos familiares
 
-irracionalidade violenta do mundo *branco*
+irracionalidade violenta do mundo _branco_
 
 tão diferentes, incompatíveis e conflituosas/os quanto estranhas/os e invulgares
 
@@ -215,7 +219,7 @@ Segredos como a escravatura.
 
 Segredos como o colonialismo.
 
-(...) "a essência da repressão não é mais do que afastar algo da consciência, e mantê-lo à distância» (1923: 17). É aquele processo pelo qual as ideias incómodas – e as verdades incómodas – se tornam inconscientes, fora da consciência, dada a extrema ansiedade, culpa ou vergonha que provocam. Mas, sepultadas no inconsciente como segredos, permanecem latentes e podem ser a qualquer momento **reveladas**. A máscara que sela a boca do _sujeito negro_ impede que o _senhor branco_ ouça as verdades latentes de que se quer "afastar", de que quer "manter distância", nas margens, despercebidas e "silenciadas". Protege o _sujeito branco_, por assim dizer, de reconhecer o conhecimento da/o "Outra/o". Confrontado com os segredos colectivos e as verdades incómodas dessa _história tão suja³, o _sujeito branco_ costuma dizer que "não sabe", "não entende", "não se lembra", "não acredita" ou "não ficou convencido". São expressões deste processo de repressão pelo qual o _sujeito resiste_ a tornar consciente a informação inconsciente; ou seja, quer tornar o **conhecido desconhecido**.
+(...) "a essência da repressão não é mais do que afastar algo da consciência, e mantê-lo à distância» (1923: 17). É aquele processo pelo qual as ideias incómodas – e as verdades incómodas – se tornam inconscientes, fora da consciência, dada a extrema ansiedade, culpa ou vergonha que provocam. Mas, sepultadas no inconsciente como segredos, permanecem latentes e podem ser a qualquer momento **reveladas**. A máscara que sela a boca do _sujeito negro_ impede que o _senhor branco_ ouça as verdades latentes de que se quer "afastar", de que quer "manter distância", nas margens, despercebidas e "silenciadas". Protege o _sujeito branco_, por assim dizer, de reconhecer o conhecimento da/o "Outra/o". Confrontado com os segredos colectivos e as verdades incómodas dessa _história tão suja³, o \_sujeito branco_ costuma dizer que "não sabe", "não entende", "não se lembra", "não acredita" ou "não ficou convencido". São expressões deste processo de repressão pelo qual o _sujeito resiste_ a tornar consciente a informação inconsciente; ou seja, quer tornar o **conhecido desconhecido**.
 
 o ego controla e censura o que é instigado como verdade «incómoda».
 
@@ -239,7 +243,7 @@ para atenuar o choque emocional e a dor
 
 "Tomamos realmente o que é delas/es"
 
-a *culpa*, a emoção que se segue à transgressão de uma interdição moral.
+a _culpa_, a emoção que se segue à transgressão de uma interdição moral.
 
 um estado afectivo no qual se vive o conflito de ter feito algo que se acredita não dever ter feito, ou, ao contrário, não ter feito algo que se acredita dever ter feito.
 
@@ -247,17 +251,17 @@ procura afirmar nos outros o que teme reconhecer em si, como na negação
 
 está atens preocupado com as consequências da sua própria transgressão: "acusação", "culpa", "punição".
 
-as respostas comuns à culpa são a *intelectualização* ou a *racionalização* 
+as respostas comuns à culpa são a _intelectualização_ ou a _racionalização_
 
 tenta estabelecer uma justificação lógica para o racismo
 
-"para mim, não há *negras/os* ou *brancas/os*, somos todos seres humanos"
+"para mim, não há _negras/os_ ou _brancas/os_, somos todos seres humanos"
 
 na ideia de que "a 'raça' realmente não importa"
 
 estratégia para reduzir os desejos inconscientes de agressão dirigidos aos "Outros" e o sentimento de culpa
 
-Por outro lado, a *vergonha* é o medo do ridículo, a resposta ao fracasso de estar à altura do ideal do próprio ego.
+Por outro lado, a _vergonha_ é o medo do ridículo, a resposta ao fracasso de estar à altura do ideal do próprio ego.
 
 Ora, a vergonha apresenta uma relação íntima com o discernimento.
 
@@ -268,6 +272,7 @@ Ora, a vergonha apresenta uma relação íntima com o discernimento.
 reconhecimento é a passagem de fantasia para a realidade
 
 Negoceia-se a realidade
+
 #### Capítulo 3 - Dizer o indizível
 
 situado na superfície de outras coisas
@@ -278,7 +283,7 @@ mera "coisa" externa, "coisa" do passado, que se situa nas margens em vez de no 
 
 ##### Descolonizar o conhecimento
 
-mostrando-lhe a cara, que, qual passaporte, me tornaria também um "corpo no lugar". 
+mostrando-lhe a cara, que, qual passaporte, me tornaria também um "corpo no lugar".
 
 Aquel papel permitir-me-ia entrar num espaço que a minha pele não permitia.
 
@@ -288,7 +293,7 @@ Não é apenas "peixe na água"; esta água tem peso:
 
 um peixe na água que não sente o peso da água e toma o seu mundo por garantido
 
-Neste mundo *branco*, sou peixe de água doce que nada na água do mar. Sinto o peso da água... no meu corpo.
+Neste mundo _branco_, sou peixe de água doce que nada na água do mar. Sinto o peso da água... no meu corpo.
 
 fora e dentro dos agentes
 

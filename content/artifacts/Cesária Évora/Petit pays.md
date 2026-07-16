@@ -1,11 +1,11 @@
 ---
 tags:
-  
   - music
   - poetry
   - rhythm
   - creole
 ---
+
 La na céu bo é um estrela  
 Ki catá brilha  
 Li na mar bô é um areia  

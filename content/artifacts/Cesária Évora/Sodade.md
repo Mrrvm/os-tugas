@@ -1,11 +1,11 @@
 ---
 tags:
-  
   - music
   - poetry
   - rhythm
   - creole
 ---
+
 Ken mostrá-be es kaminhu lonje?  
 Ken mostrá-be es kaminhu lonje?  
 Es kaminhu pa **Santumé**

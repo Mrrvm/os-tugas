@@ -1,6 +1,5 @@
 ---
 tags:
-  
   - text
   - paper
   - national-identity
@@ -9,9 +8,10 @@ tags:
   - READ
 bib: 'Peralta, E. "The Memorialization of Empire in Postcolonial Portugal: Identity Politics and the Commodification of History," Portuguese Literary & Cultural Studies 36-37. 2022: 156. https://ojs.lib.umassd.edu/plcs/article/view/PLCS36_37_Peralta_page156.'
 ---
+
 ### Annotations
 
-Since I can remember, my family had a glass cup with a cartoon called Gil at home. This was the mascot of the Expo 98 meant as a reference to Gil Eanes, the navigator from [[Lagos]], that passed through Western Sahara. 
+Since I can remember, my family had a glass cup with a cartoon called Gil at home. This was the mascot of the Expo 98 meant as a reference to Gil Eanes, the navigator from [[Lagos]], that passed through Western Sahara.
 
 Expo 98 was a world exhibition whose theme was "The Oceans, a Heritage for the Future", chosen in part to commemorate 500 years of Portuguese maritime expansion.
 
@@ -56,4 +56,3 @@ Another controversy that arose that year was associated with the inauguration of
 "==in Europe as a whole==, which, as Benoit De L’Estoile (2008) has claimed, ==was shaped both objectively and subjectively by the imperial experience==. As scholars, it is our task to continue to observe and analyze the unfolding of events that point to the renewed ways in which ==individuals and communities make sense of times past and present.=="
 
 ![[PLCS+36-37+pdfx-168-191.pdf]]
-

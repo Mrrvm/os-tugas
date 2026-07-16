@@ -1,6 +1,5 @@
 ---
 tags:
-  
   - rhythm
   - text
 ---

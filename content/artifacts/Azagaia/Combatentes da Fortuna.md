@@ -8,6 +8,7 @@ tags:
 bib: Azagaia. Combatentes da Fortuna. 2009. Accessed May 6th, 2025. https://www.youtube.com/watch?v=pVu8R-VWCKs.
 link: https://www.youtube.com/watch?v=pVu8R-VWCKs
 ---
+
 "Esta vai para todos os dirigentes africanos  
 Que prometeram-nos uma África melhor  
 E deram-nos uma pior que a encomenda  

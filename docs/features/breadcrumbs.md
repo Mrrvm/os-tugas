@@ -1,7 +1,6 @@
 ---
 title: "Breadcrumbs"
 tags:
-
   - component
 ---
 

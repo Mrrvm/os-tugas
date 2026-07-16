@@ -1,7 +1,6 @@
 ---
 title: AliasRedirects
 tags:
-
   - plugin/emitter
 ---
 

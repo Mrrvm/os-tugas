@@ -1,7 +1,6 @@
 ---
 title: "CreatedModifiedDate"
 tags:
-
   - plugin/transformer
 ---
 

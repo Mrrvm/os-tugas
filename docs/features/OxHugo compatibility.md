@@ -1,7 +1,6 @@
 ---
 title: "OxHugo Compatibility"
 tags:
-
   - feature/transformer
 ---
 

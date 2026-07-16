@@ -1,7 +1,6 @@
 ---
 title: "Latex"
 tags:
-
   - plugin/transformer
 ---
 

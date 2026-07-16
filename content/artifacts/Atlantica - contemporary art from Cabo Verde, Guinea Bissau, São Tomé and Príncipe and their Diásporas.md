@@ -9,8 +9,9 @@ tags:
 bib: "J., Schofield, C. & de Miranda, M., eds., Atlantica: Contemporary Art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and Their Diasporas (Lisbon: Hangar Books, 2021), https://hangar.com.pt/en/loja/atlantica-contemporary-art-from-cabo-verde-guinea-bissau-sao-tome-and-principe-and-their-diasporas/"
 link: https://hangar.com.pt/en/loja/atlantica-contemporary-art-from-cabo-verde-guinea-bissau-sao-tome-and-principe-and-their-diasporas/
 ---
+
 Participating artists/writers include
-[[Welket Bungué]], [[Ana Balona de Oliveira]], [[Joacine Katar Moreira]], [[Mariana Aboim]], [[Sandim Mendes]], 
+[[Welket Bungué]], [[Ana Balona de Oliveira]], [[Joacine Katar Moreira]], [[Mariana Aboim]], [[Sandim Mendes]],
 [[The singularity of Tchiloli - René Tavares]], [[Mónica de Miranda]], [[Irineu Destourelles]]
 
 ##### Between Sankofa and janus... the labour of the 'transterritorialised'artists - Inocência Mata
@@ -19,7 +20,7 @@ Participating artists/writers include
 
 "(...) proposing to **counter the official tendency of "forgetfulness" as a condition for "reconciliation", through dynamically historical dialogue** with the sagacity of the ancestors in the search for solutions to the anxieties of the present."
 
-"(...) a rhizome 'does not begin or conclude, it is always in the middle, between things, an inter-being, intermezzo. The tree is affiliation, but the rhizome is alliance. The tree imposes the verb "to be", but the rhizome has as tissues the conjunction: "and...and... and..." In this conjunction there is enough strength to shake and uproot the verb "to be". (...)'.  - [[Rhizome - Gille Deleuze]]
+"(...) a rhizome 'does not begin or conclude, it is always in the middle, between things, an inter-being, intermezzo. The tree is affiliation, but the rhizome is alliance. The tree imposes the verb "to be", but the rhizome has as tissues the conjunction: "and...and... and..." In this conjunction there is enough strength to shake and uproot the verb "to be". (...)'. - [[Rhizome - Gille Deleuze]]
 
 "(...) how to transform marginalised communities into a social, historical, cultural presence, neutralising their invisibility - or rather the process of invisibility."
 

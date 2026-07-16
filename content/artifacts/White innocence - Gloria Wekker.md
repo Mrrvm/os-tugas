@@ -1,6 +1,5 @@
 ---
 tags:
-
   - netherlands
   - book
   - text

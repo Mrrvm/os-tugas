@@ -1,6 +1,5 @@
 ---
 tags:
-  
   - fiction
   - moçambique
   - text

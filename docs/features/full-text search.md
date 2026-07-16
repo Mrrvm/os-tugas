@@ -1,7 +1,6 @@
 ---
 title: Full-text Search
 tags:
-
   - component
 ---
 

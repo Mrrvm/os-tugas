@@ -9,6 +9,7 @@ tags:
 bib: Azagaia. “Povo no poder”. 2008. Accessed May 6th, 2025. https://www.youtube.com/watch?v=RhSKixT-n0w.
 link: https://www.youtube.com/watch?v=RhSKixT-n0w
 ---
+
 "Já não caímos na velha história  
 Saímos pra combater a escória  
 Ladrões  

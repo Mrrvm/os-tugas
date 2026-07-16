@@ -2,6 +2,7 @@
 bib: Reis, Bruno and Pedro Oliveira. “The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role”. International History Review pp. 1-23, 2017. http://www.tandfonline.com/doi/abs/10.1080/07075332.2016.1253599?journalCode=rinh20
 link: https://run.unl.pt/bitstream/10362/32015/1/Bruno_REIS_Pedro_OLIVEIRA_IHR_2017.pdf
 ---
+
 "Eduardo Lourenço, one of Portugal’s most influential thinkers of the past century, in an seminal essay published in 1978 on Portuguese identity, ==pointed to the overseas empire as central in the nationalist self-image of Portugal because it ‘added a mythical dimension to the country […] avoiding the painful necessity of confronting our smallness’.== (...) ‘a war lasting for thirteen years 1961-1974 and ==the sudden collapse of the empire seemed events meant not only to create a deep collective trauma – analogous to the loss of independence between 1580-1640 – but also a deep revision of our self-image== […]. We all witnessed the surprising spectacle that neither one nor the other actually took place.’"
 
 "Roland Barthes significantly chooses as an example of the contemporary importance of myths as foundational narratives, a cover of the popular magazine Paris-Match showing a young black soldier saluting the French flag, as a symbolic construct representing the myth of France as ‘a great Empire’ in which all, ‘without colour discrimination, serve faithfully’."
@@ -41,6 +42,5 @@ when Salazar responded militarily to the first major anti-colonial uprising in A
 ==‘the April Revolution was not aimed at putting an end to the image of Portugal as an exemplary coloniser, but rather to fit within it an equally exemplary Portuguese decolonisation.’==
 
 ![[Bruno_REIS_Pedro_OLIVEIRA_IHR_2017.pdf]]
-
 
 [^constituion]: Art.2 in Acto Colonial (Decreto n.º 18 570 de 8 de Julho de 1930 as a constitutional law; then incorporated into the 1933 constitution and in place until July 1974 in https://dre.pt/application/dir/pdfgratis/1930/07/15600.pdf

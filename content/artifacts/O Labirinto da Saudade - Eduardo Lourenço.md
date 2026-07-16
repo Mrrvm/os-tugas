@@ -1,10 +1,10 @@
 ---
 bib: "Lourenço, Eduardo. O Labirinto da Saudade: Psicanálise Mítica do Destino Português. 5th ed. Lisbon: Biblioteca Dom Quixote, 1978."
 tags:
-
   - portugal
   - national-identity
 ---
+
 **Psicanálise Mítica do Destino Português**
 
 "As «Histórias de Portugal», todas, se exceptuarmos o limitado mas radical e grandioso trabalho de Herculano, são modelos de “robinsonadas”: contam as aventuras celestes de um herói isolado num universo previamente deserto. Tudo se passa como se não tivéssemos interlocutor."
@@ -63,6 +63,5 @@ Que Camões, por excesso de paixão - em parte reverso da infelicidade dela - ex
 "(...) o ultranacionalismo retrospectivo e absurdo de uma aprovação e glorificação grotescas do que vária gente chama «lusitanidade» e outra, pior ainda, «portugalidade», e que são e serão a idolatria imbecil do que é português só porque é português." (see [[Marcas de Lusotropicalismo no Marcelo]])
 
 "==Historicamente, a hipertrofia do sentimento nacional, tal como Os Lusíadas a configuraram, só se tornará grave e patológica à medida, ou nos momentos, em que a distância entre a nossa hora solar e a realidade decaída que a prolonga se acentuará.== ==O que no Poema aparece já numa luz traumatizante para o futuro é sobretudo a nossa imagem no conjunto das dos outros povos.== A topologia imaginária onde Camões nos situou era já na época perigosamente irrealista e fonte de irrealismo como o exterior e concludente Alcácer Quibir o mostraria (...)
-
 
 ![[o-labirinto-da-saudade-9789722004336.pdf]]

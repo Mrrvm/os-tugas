@@ -1,6 +1,5 @@
 ---
 tags:
-  
   - portugal
   - lisboa
   - monument
@@ -8,6 +7,7 @@ tags:
 bib: Djass – Associação de Afrodescendentes, n.d, "Memorial da Escravatura e Tráfico Negreiro", Facebook, accessed May 7, 2025 https://www.facebook.com/memorialescravatura/?locale=pt_BR.
 link: https://www.facebook.com/memorialescravatura/?locale=pt_BR
 ---
+
 ![[Pasted image 20250407105153.png]]
 Plantation by Kiluanji Kia Henda © Djass - Associação de Afrodescendentes Artistic project selected for the Memorial to Enslaved People, to be erected at Largo José Saramago (known as Campo das Cebolas) in the historic centre of Lisbon.
 

@@ -2,20 +2,26 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { classNames } from "../util/lang"
 
 const CustomMeta: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
-    return (
-        <>
-            <div class={fileData.frontmatter?.bib ? classNames(displayClass, "custom-meta", "meta-border") : classNames(displayClass, "custom-meta")}>
-                {fileData.frontmatter?.bib && <div>{fileData.frontmatter.bib}</div>}
-                {fileData.frontmatter?.link && (
-                    <div class="meta">
-                        <a href={fileData.frontmatter.link.toString()} target="_blank" rel="noopener">
-                            {fileData.frontmatter.link}
-                        </a>
-                    </div>
-                )}
-            </div>
-        </>
-    )
+  return (
+    <>
+      <div
+        class={
+          fileData.frontmatter?.bib
+            ? classNames(displayClass, "custom-meta", "meta-border")
+            : classNames(displayClass, "custom-meta")
+        }
+      >
+        {fileData.frontmatter?.bib && <div>{fileData.frontmatter.bib}</div>}
+        {fileData.frontmatter?.link && (
+          <div class="meta">
+            <a href={fileData.frontmatter.link.toString()} target="_blank" rel="noopener">
+              {fileData.frontmatter.link}
+            </a>
+          </div>
+        )}
+      </div>
+    </>
+  )
 }
 
 CustomMeta.css = `

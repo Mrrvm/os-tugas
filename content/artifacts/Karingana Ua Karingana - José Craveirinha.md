@@ -1,7 +1,5 @@
 ---
 tags:
-  
   - moçambique
   - poetry
 ---
-

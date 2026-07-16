@@ -15,7 +15,7 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""} flex flex-col gap-0`}>
         <p>
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year} |
-          <a href="https://github.com/Mrrvm/os_lusiadas_2">{" "}Github</a>
+          <a href="https://github.com/Mrrvm/os_lusiadas_2"> Github</a>
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (

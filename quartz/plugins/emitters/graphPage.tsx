@@ -5,7 +5,11 @@ import BodyConstructor from "../../components/Body"
 import { pageResources, renderPage } from "../../components/renderPage"
 import { FullPageLayout } from "../../cfg"
 import { FilePath, FullSlug, pathToRoot } from "../../util/path"
-import { defaultContentPageLayout, graphOptions, sharedPageComponents } from "../../../quartz.layout"
+import {
+  defaultContentPageLayout,
+  graphOptions,
+  sharedPageComponents,
+} from "../../../quartz.layout"
 import { ArticleTitle, FullPageGraph } from "../../components"
 import { defaultProcessedContent } from "../vfile"
 import { write } from "./helpers"
@@ -16,8 +20,9 @@ export const GraphPage: QuartzEmitterPlugin = () => {
   const opts: FullPageLayout = {
     ...sharedPageComponents,
     ...defaultContentPageLayout,
-    beforeBody: [ArticleTitle()],
+    beforeBody: [],
     pageBody: FullPageGraph({ graph: graphOptions.globalGraph }),
+    left: [],
     right: [],
   }
 

@@ -5,6 +5,7 @@ tags:
   - netherlands
 link: https://marianaaboim.hotglue.me/
 ---
+
 Mariana is a Portuguese artist based in Rotterdam, who explores how the "endurance of white cisheteropatriarchy manifests itself on the body".
 
 **Meeting on 19/03/2025** (~45min)

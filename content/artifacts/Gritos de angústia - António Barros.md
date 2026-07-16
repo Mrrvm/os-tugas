@@ -7,4 +7,5 @@ tags:
   - visual
 bib: António Barros. "Gritos de angústia". 1977.
 ---
+
 ![[Pasted image 20250226190145.png]]

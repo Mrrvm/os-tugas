@@ -1,6 +1,5 @@
 ---
 tags:
-  
   - experimental-text
   - transatlantic-enslaved-trade
   - diaspora
@@ -16,5 +15,6 @@ Erasure (She scrubs the legal documents of Gregson v. Gilbert, a case about 150 
 ![[zong-as-told-to-the-author-by-setaey-adamu-boateng-by-m.-nourbese-philip-z-lib.org_.pdf]]
 
 ### Notes
+
 On the usage of Zong! by Rana Hamadeh, https://www.setspeaks.com/ ^zong-and-rana
-*Philip, M. NourbeSe. "Set Speaks" (blog). Accessed May 21, 2025. [https://www.setspeaks.com/](https://www.setspeaks.com/)*
+_Philip, M. NourbeSe. "Set Speaks" (blog). Accessed May 21, 2025. [https://www.setspeaks.com/](https://www.setspeaks.com/)_

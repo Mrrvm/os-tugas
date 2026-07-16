@@ -1,10 +1,10 @@
 ---
 tags:
-  
   - diaspora
   - portugal
   - saotomeeprincipe
 ---
+
 Entrevista: [[Dona da casa (entrevista)]]
 
 Music

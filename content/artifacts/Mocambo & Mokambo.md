@@ -1,9 +1,9 @@
 ---
 tags:
-  
   - lisboa
   - food
 ---
+
 https://en.wikipedia.org/wiki/Mocambo_(settlement)
 [[Roteiro Histórico de uma Lisboa Africana]]
 

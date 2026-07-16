@@ -5,6 +5,7 @@ tags:
   - portugal
   - text
 ---
+
 ![[Pasted image 20250524174338.png]]
 
 ![[Pasted image 20250524174347.png]]
@@ -21,4 +22,3 @@ tags:
 ![[Pasted image 20250524174649.png]]
 
 ![[Historia8ano.pdf]]
-

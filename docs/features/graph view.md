@@ -1,7 +1,6 @@
 ---
 title: "Graph View"
 tags:
-
   - component
 ---
 

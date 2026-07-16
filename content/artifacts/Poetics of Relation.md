@@ -9,6 +9,7 @@ tags:
 bib: "Glissant, Édouard. Poética da relação. Translated and revised by Marta Mendonça. Porto: Sextante Editora, 2011. ISBN 978-972-0-07153-8."
 to-dos: "[] Contact Manuela Mendonça"
 ---
+
 ### Errantry vs Single Root
 
 Glissant differentiates **errantry** from the **single root**, which symbolizes fixed identity and exclusion. In **circular nomadism**, there is a return to the point of origin without deep attachment, while in **arrow nomadism**, there is displacement with a defined goal, without cultural mixing. Neither manifests the root because they do not create total rooting. Arrow nomadism maintains a separate identity, without opening up to the other. On the other hand, **errantry** breaks with the fixed origin and destiny, promoting encounters and exchanges.
@@ -38,23 +39,23 @@ Hegel mostra, no [[Hegel's Lectures on Aesthetics]], como as obras fundadoras de
 (...) **abordei esta dimensão de uma literatura épica, interrogando-me se nos dias de hoje não nos seriam ainda necessárias obras fundadoras que se baseassem numa semelhante dialética do desvio: afirmando, por exemplo, o rigor político, mas também o rizoma da relação múltipla com o Outro, e fundando as razões de viver de qualquer comunidade numa forma moderna do sagrado, que seria, em suma, uma poética da Relação.**"
 
 **Turism**
-"daqueles que suportam a injustiça do mundo. A sua errância é, com efeito, imóvel. Não viveram o luxo do afastamento, melancólico e extrovertido. Não viajam. Mas para eles o saber da raiz passa agora a ser-lhes dado pela intuição da Relação: é essa uma das constantes do nosso mundo. Viajar já não é o lugar de um poder, mas o momento de um prazer, se bem que privilegiado. A obsessão ontológica do conhecimento dá lugar à fruição de uma relação, de que _o turismo é a forma elementar e, a maior parte das vezes, caricatural. Os que ficam sobressaem-se com essa paixão do mundo, comum a todos. Acontece-lhes sofrer os tormentos do exílio interior. (...) Falo desse exílio interior que atinge os indivíduos, quando as soluções não são, ou não são ainda, no que toca às relações de uma comunidade com o seu meio, por ela globalmente consentidas. (p.28)"
+"daqueles que suportam a injustiça do mundo. A sua errância é, com efeito, imóvel. Não viveram o luxo do afastamento, melancólico e extrovertido. Não viajam. Mas para eles o saber da raiz passa agora a ser-lhes dado pela intuição da Relação: é essa uma das constantes do nosso mundo. Viajar já não é o lugar de um poder, mas o momento de um prazer, se bem que privilegiado. A obsessão ontológica do conhecimento dá lugar à fruição de uma relação, de que \_o turismo é a forma elementar e, a maior parte das vezes, caricatural. Os que ficam sobressaem-se com essa paixão do mundo, comum a todos. Acontece-lhes sofrer os tormentos do exílio interior. (...) Falo desse exílio interior que atinge os indivíduos, quando as soluções não são, ou não são ainda, no que toca às relações de uma comunidade com o seu meio, por ela globalmente consentidas. (p.28)"
 
 ### Collected text for collage
 
 ##### O BARULHAMENTO DO MUNDO (José António Fernandes Dias, AFRICA.CONT)
 
-como ser um eu mesmo sem sufocar o outro e como abrir-se ao outro sem asfixiar o eu mesmo 
+como ser um eu mesmo sem sufocar o outro e como abrir-se ao outro sem asfixiar o eu mesmo
 
-e, entre nós, vive-se privilegiadamente na paróquia lusófona 
+e, entre nós, vive-se privilegiadamente na paróquia lusófona
 
-correntes como um arquipélago 
+correntes como um arquipélago
 
 de pensamento arquipelágico
 
-uma forma de pensamento mais intuitivo, mais frágil, exposto mas também disposto ao caos do mundo 
+uma forma de pensamento mais intuitivo, mais frágil, exposto mas também disposto ao caos do mundo
 
-um arquipélago interpretativo cujos Mares pretende continuar a navegar 
+um arquipélago interpretativo cujos Mares pretende continuar a navegar
 
 embarcaram connosco nesta viagem sem hesitação
 
@@ -62,25 +63,25 @@ nos arquipélagos de morte evidente
 
 ##### IMAGINÁRIO
 
-Pensar o pensamento equivale quase sempre a retirarmo-nos para um lugar sem dimensão 
+Pensar o pensamento equivale quase sempre a retirarmo-nos para um lugar sem dimensão
 
-o pensamento espaça-se realmente no mundo. Informa o imaginário dos povos, as suas poéticas diversificadas 
+o pensamento espaça-se realmente no mundo. Informa o imaginário dos povos, as suas poéticas diversificadas
 
 A cultura é a precaução daqueles que inspiram a pensar o pensamento mas se mantêm afastados do seu caótico percurso
 
-O pensamento desenha o imaginário do passado: um saber em construção. Ele é partilha, de que ninguém pode abdicar, nem, nele se detendo, dela se valer. 
+O pensamento desenha o imaginário do passado: um saber em construção. Ele é partilha, de que ninguém pode abdicar, nem, nele se detendo, dela se valer.
 
 ##### CAPÍTULO I - ABORDAGENS
 
 ###### A BARCA ABERTA
 
-Aquilo que petrifica, nas experiência da deportação dos africanos para as Américas, é sem dúvida o desconhecido enfrentado sem preparação nem desafio. 
+Aquilo que petrifica, nas experiência da deportação dos africanos para as Américas, é sem dúvida o desconhecido enfrentado sem preparação nem desafio.
 
-A primeira treva foi o ser arrancado à terra quotidiana, aos Deuses protetores, à comunidade tubular. A segunda noite foi de torturas, degenerescência do ser, provocado por tantos incríveis sofrimentos. Imaginem 200 pessoas amontoadas num espaço que mal poderia conter um terço delas. Imaginem o vómito, a carne viva, piolhos pululantes, os mortos jacentes, os agonizantes apodrecendo. Imaginem, se forem capazes, embriaguez vermelha das subidas ao convés, a rampa que é preciso subir, o sol negro no horizonte, a vertigem, esse deslumbramento do céu colado às ondas. Vinte, trintra milhões de deportados durante dois séculos o mais. A degradação, mais sempiterna que um apocalipse. 
+A primeira treva foi o ser arrancado à terra quotidiana, aos Deuses protetores, à comunidade tubular. A segunda noite foi de torturas, degenerescência do ser, provocado por tantos incríveis sofrimentos. Imaginem 200 pessoas amontoadas num espaço que mal poderia conter um terço delas. Imaginem o vómito, a carne viva, piolhos pululantes, os mortos jacentes, os agonizantes apodrecendo. Imaginem, se forem capazes, embriaguez vermelha das subidas ao convés, a rampa que é preciso subir, o sol negro no horizonte, a vertigem, esse deslumbramento do céu colado às ondas. Vinte, trintra milhões de deportados durante dois séculos o mais. A degradação, mais sempiterna que um apocalipse.
 
-Esse animal tem o aspecto de uma fibrila. 
+Esse animal tem o aspecto de uma fibrila.
 
-É o choque mais totalmente conhecido entre os poderes dos escritos e os impulsos da oralidade. No barco negreiro, o único escrito é o livro de contabilidade que diz respeito ao valor de troca dos escravos. No espaço do barco, o grito dos deportados é abafado, como será no universo das Plantações. Este choque ecoa até nós. 
+É o choque mais totalmente conhecido entre os poderes dos escritos e os impulsos da oralidade. No barco negreiro, o único escrito é o livro de contabilidade que diz respeito ao valor de troca dos escravos. No espaço do barco, o grito dos deportados é abafado, como será no universo das Plantações. Este choque ecoa até nós.
 
 Aterrador é o abismo, três vezes ligado ao desconhecido.O primeiro é um terror inaugural, quando mergulhas no ventre da barca. Uma barca, segundo a tua poética, não tem ventre, uma barca não engole, não devora, uma barca pilota-se a céu aberto. O ventre dessa barca dissolve-te, precipita-te num não mundo onde gritas. Essa barca é uma matriz, poço-matriz. Geradora do teu brado. Produtora também de toda a unanimidade por vir. Porque se estás só nesse sofrimento, partilhas o desconhecido com alguns, que ainda não conheces. Essa barca é a tua matriz, um molde, que, no entanto, te expulsa. Grávida tanto de mortos como de vivos condenados a uma morte adiada.
 
@@ -88,7 +89,7 @@ O segundo abismo é o abismo do mar. Quando a Marinha dá caça ao negreiro, o m
 
 Mas, para que essas costas ganhem forma, e antes que possam ser concebíveis, ou sequer visíveis, quantos tormentos desconhecidos! A face mais petrificante do abismo encontra-se de facto diante da proa do navio negreiro, rumor pálido que tanto pode ser nuvem de tempestade, chuva ou morrinha, como fumo de uma fogueira tranquilizadora. De ambos os lados da barca desaparecem as margens do rio. Que rio é este, então, sem meio? Apenas com um em-frente? Não vogará essa barca pela eternidade, nos confins de um não mundo, que nenhum Antepassado frequenta?
 
-A terceira forma do abismo projeta assim, em paralelo com a massa de água, a imagem invertida de tudo o que foi abandonado. 
+A terceira forma do abismo projeta assim, em paralelo com a massa de água, a imagem invertida de tudo o que foi abandonado.
 
 e que, para muitas gerações, só será encontrado nas savanas azuis da memória ou do imaginário, cada vez mais tênues.
 
@@ -100,13 +101,13 @@ A experiência do abismo está no abismo e fora dele. Tormento daqueles que nunc
 
 Não só conhecimento particular, apetite, sofrimento e fruição de um povo particular, não só isso, mas o conhecimento do Todo,
 
-Os povos experimentaram o abismo não se vangloriam de ter sido eleitos. Não julgam ter dado origem ao poder da modernidade. 
+Os povos experimentaram o abismo não se vangloriam de ter sido eleitos. Não julgam ter dado origem ao poder da modernidade.
 
-que desbravam a medida que adquirem o esquecimento do abismo e que a sua memória se consolida 
+que desbravam a medida que adquirem o esquecimento do abismo e que a sua memória se consolida
 
-Vítima original flutuando sobre os abismos do mar, uma exceção, ela tornou-se comum para fazer de nós, os descendentes, um povo entre outros. 
+Vítima original flutuando sobre os abismos do mar, uma exceção, ela tornou-se comum para fazer de nós, os descendentes, um povo entre outros.
 
-Tomamos partido por esse jogo do mundo, pelas Índias renovadas em direção às quais gritamos, por essa Relação de tempestades e de calamarias profundas onde possamos honrar as nossas barcas. 
+Tomamos partido por esse jogo do mundo, pelas Índias renovadas em direção às quais gritamos, por essa Relação de tempestades e de calamarias profundas onde possamos honrar as nossas barcas.
 
 É isso que nos faz insistir na poesia. Apesar de consentirmos em toda a irrecusável tecnologia, apesar de concebemos as manobras das políticas a concertar, o horror de vencer fomes e ignorâncias, torturas e massacres, e a totalidade do saber a conquistar, o peso de cada maquinária que acabaremos por controlar, e a fulguração desgastante da passagem de uma a outra era, da floresta à cidade, do conto ao computador - há, à proa, agora, esse ainda rumor, nuvem ou chuva, ou fumo tranquilo. Conhecemo-nos enquanto multidão, no desconhecido que não aterroriza. Gritamos o grito da poesia. As nossas barcas estão abertas, nelas navegamos para todos.
 
@@ -142,7 +143,7 @@ e o exilado confessa de bom grado que aquilo que mais o afeta é a impossibilida
 
 A raíz é monolingue.
 
-Contudo, e isso é um imenso paradoxo, os livros fundadores da comunidade, o Antigo Testamento, a _Ilíada_, a _Odisseia_, as _Canções de Gesta_, as _Sagas_, a _Eneida_ ou as epopeias africanas são livros de exílio e, muitas vezes, de errância. 
+Contudo, e isso é um imenso paradoxo, os livros fundadores da comunidade, o Antigo Testamento, a _Ilíada_, a _Odisseia_, as _Canções de Gesta_, as _Sagas_, a _Eneida_ ou as epopeias africanas são livros de exílio e, muitas vezes, de errância.
 
 obrigando os povos visitados ou conquistados à longa e dolorosa busca de uma identidade que deverá sobretudo opor-se às desnaturações provocadas pelo conquistador
 
@@ -158,19 +159,19 @@ A obsessão ontológica do conhecimento dá lugar à fruição de uma relação,
 
 O exílio interior é a viagem para fora dessa prisão.
 
-A maior parte das vezes, distrai-se em compensações parciais de prazer, em que o indivíduo se consome. O exílio interior predispõe ao conforto das coisas, que não distrai da angústia. 
+A maior parte das vezes, distrai-se em compensações parciais de prazer, em que o indivíduo se consome. O exílio interior predispõe ao conforto das coisas, que não distrai da angústia.
 
-o errante, que já não é o viajante, nem o descobridor, nem o conquistador, procura conhecer a totalidade do mundo e sabe já que nunca conseguirá fazê-lo - e que é aí que reside a beleza ameaçada do mundo 
+o errante, que já não é o viajante, nem o descobridor, nem o conquistador, procura conhecer a totalidade do mundo e sabe já que nunca conseguirá fazê-lo - e que é aí que reside a beleza ameaçada do mundo
 
 Mergulha nas opacidades
 
-O pensamento a errância concebe a totalidade, mas renuncia de bom grado à pretensão de a comandar ou de a possuir. 
+O pensamento a errância concebe a totalidade, mas renuncia de bom grado à pretensão de a comandar ou de a possuir.
 
-o pensamento da errância é postulação dos sagrado que nunca se revela e que nunca se apaga. 
+o pensamento da errância é postulação dos sagrado que nunca se revela e que nunca se apaga.
 
-sem que seja necessário que eu as isole num Panteão que elas recusariam. 
+sem que seja necessário que eu as isole num Panteão que elas recusariam.
 
-Obra que convida à totalidade - até à exaltação irredutível de um universal que se esgota, de tanto ser dito. 
+Obra que convida à totalidade - até à exaltação irredutível de um universal que se esgota, de tanto ser dito.
 
 ###### POÉTICAS
 
@@ -204,83 +205,83 @@ Mas veremos que o verbo "compreender"tem, porventura, aqui um temível sentido r
 
 Sabemos que o outro está em nós, que ele ressoa não só no nosso futuro mas também em grande parte das nossas concessões e no movimento da nossa sensibilidade.
 
-Porque, se o mundo não é um livro, não é menos de verdade que o silêncio do mundo nos conduziria, por seu turno, à surdez. 
+Porque, se o mundo não é um livro, não é menos de verdade que o silêncio do mundo nos conduziria, por seu turno, à surdez.
 
 A Relação que agita as humanidades, necessita da palavra para se editar, para se continuar.
 
-Mas será necessário citar todos aqueles que viveram desde então, em registos apaixonados, críticos ou possessos, racistas ou idealistas, excessivos ou racionais, o apelo do Diverso? 
+Mas será necessário citar todos aqueles que viveram desde então, em registos apaixonados, críticos ou possessos, racistas ou idealistas, excessivos ou racionais, o apelo do Diverso?
 
-Poetas, que nasceram ou viveram no alhures, sonham a origem do seu imaginário e, conscientemente ou não, "fazem a viagem em sentido contrário". 
+Poetas, que nasceram ou viveram no alhures, sonham a origem do seu imaginário e, conscientemente ou não, "fazem a viagem em sentido contrário".
 
-A palavra do poeta conduz da periferia à periferia, reproduz o vestígio 
+A palavra do poeta conduz da periferia à periferia, reproduz o vestígio
 
-que ela transforma toda a periferia em centro, e, mas ainda, que ela é abole a própria noção de centro e de periferia, 
+que ela transforma toda a periferia em centro, e, mas ainda, que ela é abole a própria noção de centro e de periferia,
 
-explode, qual trama escrita na totalidade suficiente do mundo 
+explode, qual trama escrita na totalidade suficiente do mundo
 
-o encontro com o Outro 
+o encontro com o Outro
 
-A capacidade de sentir o choque do alhures 
+A capacidade de sentir o choque do alhures
 
-O Diverso, a totalidade quantificável de todas as diferenças possíveis, é o motor da energia universal que há que preservar das assimilações 
+O Diverso, a totalidade quantificável de todas as diferenças possíveis, é o motor da energia universal que há que preservar das assimilações
 
 dos hábitos padronizados.
 
 fixar na memória o cenário da sua ilha natal
 
-vai em direção ao outro, corre para o alhures 
+vai em direção ao outro, corre para o alhures
 
-tentarão sempre erguer catedrais eloquentes 
+tentarão sempre erguer catedrais eloquentes
 
 As histórias, convergentes, encontraram assim essa parte das literaturas do mundo, fazendo nascer novas expressões "dentro" da mesma língua.
 
-O velho espaço de trajetória, a espiritualidade do itinerário cede o lugar à compacticidade realizada 
+O velho espaço de trajetória, a espiritualidade do itinerário cede o lugar à compacticidade realizada
 
-os emaranhados da Relação 
+os emaranhados da Relação
 
-tudo o que foi dito foi-o de maneira fragmentária, reticente, obstinadamente cega 
+tudo o que foi dito foi-o de maneira fragmentária, reticente, obstinadamente cega
 
-repugna consagrar essa abolição, torpedear assim os seus bastiões. 
+repugna consagrar essa abolição, torpedear assim os seus bastiões.
 
-Usa de astúcia durante os avanços do mundo, furta-se a eles. 
+Usa de astúcia durante os avanços do mundo, furta-se a eles.
 
-Inventa biombos. 
+Inventa biombos.
 
-que visa o fundamental e a base, que aparenta ao verdadeiro, furta-se a esses caminhos incertos. 
+que visa o fundamental e a base, que aparenta ao verdadeiro, furta-se a esses caminhos incertos.
 
-A paisagem de tua palavra é a paisagem do mundo. Mas a sua Fronteira está aberta. 
+A paisagem de tua palavra é a paisagem do mundo. Mas a sua Fronteira está aberta.
 
-Não só um encontro, um choque, uma mestiçagem, mas também uma dimensão inédita que permite a cada um estar ali e em outro lugar, enraizado e aberto pedido na montanha e livre no mar, em acordo e em errância. 
+Não só um encontro, um choque, uma mestiçagem, mas também uma dimensão inédita que permite a cada um estar ali e em outro lugar, enraizado e aberto pedido na montanha e livre no mar, em acordo e em errância.
 
-O seu símbolo mais evidente é a língua crioula, cujo génio consiste em abrir-se sempre, ou seja, em só se fixar segundo sistemas de variáveis que teremos tanto de imaginar como de definir. 
+O seu símbolo mais evidente é a língua crioula, cujo génio consiste em abrir-se sempre, ou seja, em só se fixar segundo sistemas de variáveis que teremos tanto de imaginar como de definir.
 
-A criolização conduz-nos assim à aventura do multilinguismo e à explosão inaudita das culturas. 
+A criolização conduz-nos assim à aventura do multilinguismo e à explosão inaudita das culturas.
 
 diluição mútua
 
-Trata-se da marca violenta da sua partilha com sentido, não importa. 
+Trata-se da marca violenta da sua partilha com sentido, não importa.
 
 ###### UMA ERRÂNCIA ENRAIZADA
 
-que não é no lugar do seu primeiro grito 
+que não é no lugar do seu primeiro grito
 
-um aqui (a Europa) em direção ao qual é necessário chegar por opção 
+um aqui (a Europa) em direção ao qual é necessário chegar por opção
 
 de origens nobres
 
-análise elementar e grosseiro 
+análise elementar e grosseiro
 
-E poderíamos adiantar mais ainda, imaginando feridas sob o verniz formal, um drama que se esconde e se transforma em orgulhosa altivez. Não o façamos. A lição do poeta vai mais fundo. Abandona as paragens habituais que a biografia traça. 
+E poderíamos adiantar mais ainda, imaginando feridas sob o verniz formal, um drama que se esconde e se transforma em orgulhosa altivez. Não o façamos. A lição do poeta vai mais fundo. Abandona as paragens habituais que a biografia traça.
 
-O rigor da matéria e o seu conhecimento enciclopédico tecem a proliferação controlada por onde o universo transborda e nos é contado. 
+O rigor da matéria e o seu conhecimento enciclopédico tecem a proliferação controlada por onde o universo transborda e nos é contado.
 
 Os seus corpos estão quentes da febre do dia, os seus olhos largamos no tempo que não passa. Essas crianças não entendem as fórmulas, não percebem as alusões, mas é elas que, antes de mais, o contador de histórias se dirige. Está pronto a adivinhar os seus frémitos, a pele arrepiada, o risco que protege. A sua voz vem de além dos Mares, repleta de sobresaltos desses países da África cuja ausência é presença; demora-se na noite, que acolhe no seu ventre as crianças trémulas.
 
 Fico estupefacto quando pretendem reduzir
 
-Há lá demasiadas praias de evidência, aqui e ali atravancadas de raízes, quando a língua se espessa em nodosidades. 
+Há lá demasiadas praias de evidência, aqui e ali atravancadas de raízes, quando a língua se espessa em nodosidades.
 
-A evidência declamada é imediatamente transparência tautológica. 
+A evidência declamada é imediatamente transparência tautológica.
 
 O erro que tantas vezes se comete com o poeta é acreditar que o seu texto preenche, define o palco de um teatro.
 
@@ -300,7 +301,7 @@ começa por "festejar uma infância"
 
 recusa o conforto do álbum que se folheia. O que é de facto essa memória sempre em fuga? Qual é esse lugar (essa casa), de que apenas é dito que dela se sai? E essa solidão altiva entre "todas as coisas" brilhantes, explodidas, irreparavelmente reluzentes?
 
-Essa oralidade não convoca os ouvintes para limiares da sombra, lança-nos a todos na resolução de um porvir.  
+Essa oralidade não convoca os ouvintes para limiares da sombra, lança-nos a todos na resolução de um porvir.
 
 não é memória torturada que se repete em sombras, mas a hesitação que anuncia as partidas solenes.
 
@@ -325,13 +326,3 @@ O perpétuo "partir" permite colecionar rochas, urdir a materialidade
 itinerários, igualmente sumptuosos, em sentidos opostos, se anulam
 
 traça sempre para nós, mas petrificadas na sua generosa renúncia, as figuras das nossas solidões a partilhar.
-
-
-
-
-
-
-
-
-
-

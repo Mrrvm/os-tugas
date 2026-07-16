@@ -47,5 +47,5 @@ export {
   NotFound,
   Breadcrumbs,
   Comments,
-  CustomMeta
+  CustomMeta,
 }

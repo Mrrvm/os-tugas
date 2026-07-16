@@ -1,6 +1,5 @@
 ---
 tags:
-  
   - fiction
   - text
   - book

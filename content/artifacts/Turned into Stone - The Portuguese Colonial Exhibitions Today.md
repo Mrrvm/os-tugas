@@ -1,6 +1,5 @@
 ---
 tags:
-  
   - portugal
   - porto
   - lisboa
@@ -11,6 +10,7 @@ tags:
 link: https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/
 bib: 'B. Alves. PARSE. "Turned into Stone: The Portuguese Colonial Exhibitions Today." Accessed May 6, 2025. https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/'
 ---
+
 "==As scholar and curator Elsa Peralta notes, after over five centuries of holding power over colonies, the end of the empire and the democratisation of the country did not erase Portugal’s self-image as an imperial nation. The national narrative still revolves around symbols of Portugal as an imperial maritime entity, and ideas of the Portuguese “as peaceful, non-racist, gentler colonialists, and of their culture as universal, hybrid, somehow Creole, enriched by centuries of colonial contact.==”[^elsa-peralta1]"^elsa-peralta1
 
 "Portugal’s colonial exhibitions took place in 1934 and 1940, the first in Porto and the second in Lisbon."
@@ -55,9 +55,9 @@ bib: 'B. Alves. PARSE. "Turned into Stone: The Portuguese Colonial Exhibitions T
 
 =="(...) As Peralta remarks, narratives that were previously mobilised because of ideological agendas are now repositioned in reference to the demands of the consumer and leisure markets and tourism, with the empire making place for the voyage, looking to build a story of these locations that can add revenue to the tourist industry."==[^elsa-peralta3]
 
-"In 1960, as Portuguese colonialism came under increased scrutiny, _Estado Novo_ returned to the narrative of the discoveries to commemorate 500 years of the death of Henry the Navigator and the decision was made to re-erect the monument on a larger scale for this occasion."
+"In 1960, as Portuguese colonialism came under increased scrutiny, *Estado Novo* returned to the narrative of the discoveries to commemorate 500 years of the death of Henry the Navigator and the decision was made to re-erect the monument on a larger scale for this occasion."
 
-"Around the monument, the pavement­—a gift from the South African apartheid regime—presents a _mappa mundi_ and a compass rose."
+"Around the monument, the pavement­—a gift from the South African apartheid regime—presents a *mappa mundi* and a compass rose."
 
 =="Hyperbolic language is used to surround the monument with myths and stories of the sea, conveying ideas of permanence and strength, and positioning the Portuguese people as “uninterruptedly transmiting the sacred blood” of their heroes. In this way, binding bodies of the past to the present and future, in a rhetoric that still holds a strong grip over Portuguese society, which can be perceived in the difficulty in accepting other narratives that contest or disturb this account of history, and in revisiting the end of colonisation or its violence."==
 
@@ -77,22 +77,22 @@ bib: 'B. Alves. PARSE. "Turned into Stone: The Portuguese Colonial Exhibitions T
 
 "In talking about this monument, Ferreira believes in the possibility of reading buildings as political texts, proposing to not only tell a story as historian, but ==“to identify the buildings as metaphors, knowing how to articulate critical readings brought around them;"==[^ferreira]
 
-"In _Descobertas/Padrão dos Descobrimentos_ (2007), Henda photographed a group of young people on top of one of the ramps of the monument, posing and leaning against its historical figures, dwarfed by their colossal scale."
+"In *Descobertas/Padrão dos Descobrimentos* (2007), Henda photographed a group of young people on top of one of the ramps of the monument, posing and leaning against its historical figures, dwarfed by their colossal scale."
 
 "After its creation in 2007, Henda’s work still draws scrutiny from the media: in 2017 when the photograph was part of an exhibition taking place inside the monument,) and more recently in the controversy around the photograph being bought by the city council, without knowledge of the artist, who had promised to donate part of its profits to the association that those in the photo belonged to (which happened later). The conversation became public and brought about a discussion about the work, its relation to the city and its symbolism, which demonstrates that in their circulation these works also create important moments for debate."
 
 "I have begun by creating silicone casts that become a concrete way of studying the monument in public space. The activity of creating the casts—with the necessary preparation and drying times—demand a period of being physically very close to the monument, extending a relation of observation to a prolonged experience that involves close witnessing and bodily encounters."
 
-[^elsa-peralta1]: Peralta, Elsa. “Fictions of a Creole Nation: (Re)Presenting Portugal’s Imperial Past”. In _Negotiating identities: constructed selves and others_. Edited by Helen Vella Bonavita. Amsterdam and New York, NY: Rodopi. 2011. p. 193. Quoted by B. Alves. 
+[^elsa-peralta1]: Peralta, Elsa. “Fictions of a Creole Nation: (Re)Presenting Portugal’s Imperial Past”. In *Negotiating identities: constructed selves and others*. Edited by Helen Vella Bonavita. Amsterdam and New York, NY: Rodopi. 2011. p. 193. Quoted by B. Alves.
 
-[^elsaperalta2]: Commissioner of the exhibition, Augusto de Castro. Cited in Peralta, Elsa. “A composição de um complexo de memória: O caso de Belém, Lisboa” In _Cidade e império: dinâmicas coloniais e reconfigurações pós-coloniais_. Edited by Nuno Domingos and Elsa Peralta. Lisbon: Edições 70. 2013. p. 380.
+[^elsaperalta2]: Commissioner of the exhibition, Augusto de Castro. Cited in Peralta, Elsa. “A composição de um complexo de memória: O caso de Belém, Lisboa” In *Cidade e império: dinâmicas coloniais e reconfigurações pós-coloniais*. Edited by Nuno Domingos and Elsa Peralta. Lisbon: Edições 70. 2013. p. 380.
 
 [^elsa-peralta3]: Peralta, “A composição de um complexo de memória”, p. 389.
 
-[^vicente]: Vicente, F. “’Rosita’ e o Império Como Objecto de Desejo”. Publico, Ípsilon. 25 August 2013. Available at https://www.buala.org/pt/corpo/rosita-e-o-imperio-como-objecto-de-desejo. Quoted by B. Alves. Commissioner of the exhibition, Augusto de Castro. Cited in Peralta, Elsa. 
+[^vicente]: Vicente, F. “’Rosita’ e o Império Como Objecto de Desejo”. Publico, Ípsilon. 25 August 2013. Available at https://www.buala.org/pt/corpo/rosita-e-o-imperio-como-objecto-de-desejo. Quoted by B. Alves. Commissioner of the exhibition, Augusto de Castro. Cited in Peralta, Elsa.
 
 [^luso-trop]: These ideas paved the way to the later formulation of Portuguese exceptionalism in the notion of luso-tropicalism, proposed by Gilberto Freyre. See Anderson, Warwick, Roque, Ricardo and Santos Ricardo Ventura (eds.). Luso-Tropicalism and Its Discontents: The Making and Unmaking of Racial Exceptionalism. New York, NY, and Oxford: Berghahn Books. 2019. Quoted by B. Alves.
 
-[^gil]: See Gil, José. _Salazar: A Retórica da Invisibilidade,_ Lisboa: Relógio d’Água. 1995; and Gil, José. _Portugal, Hoje: O Medo de Existir,_ Lisbon: Relógio d’Água. 2007. [↑](https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/#post-8828-endnote-ref-43)
+[^gil]: See Gil, José. *Salazar: A Retórica da Invisibilidade,* Lisboa: Relógio d’Água. 1995; and Gil, José. *Portugal, Hoje: O Medo de Existir,* Lisbon: Relógio d’Água. 2007. [↑](https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/#post-8828-endnote-ref-43)
 
-[^ferreira]: Ferreira, Angela. “Os limites do poder do Padrão dos Descobrimentos e o retorno ao arquivo” In _Retornar: Traços da Memória do Fim do Império_. Edited by Elsa Peralta, Bruno Góis and Joana Oliveira, Lisbon: Edições 70. 2017. p. 351.
+[^ferreira]: Ferreira, Angela. “Os limites do poder do Padrão dos Descobrimentos e o retorno ao arquivo” In *Retornar: Traços da Memória do Fim do Império*. Edited by Elsa Peralta, Bruno Góis and Joana Oliveira, Lisbon: Edições 70. 2017. p. 351.

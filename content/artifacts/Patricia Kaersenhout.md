@@ -9,6 +9,7 @@ tags:
 bib: Patricia Kaersenhout. "THE DREAM OF A THOUSAND SHIPWRECKS". "We refuse...". 2018.
 link: https://www.pkaersenhout.com/copy-of-les-eclaireurs
 ---
+
 ![[Pasted image 20250319112302.png]]
 
 **Other work**

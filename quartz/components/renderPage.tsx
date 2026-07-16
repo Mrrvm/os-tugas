@@ -3,7 +3,15 @@ import { QuartzComponent, QuartzComponentProps } from "./types"
 import HeaderConstructor from "./Header"
 import BodyConstructor from "./Body"
 import { JSResourceToScriptElement, StaticResources } from "../util/resources"
-import { clone, FullSlug, RelativeURL, joinSegments, normalizeHastElement } from "../util/path"
+import {
+  clone,
+  FullSlug,
+  RelativeURL,
+  joinSegments,
+  normalizeHastElement,
+  pathToRoot,
+} from "../util/path"
+import { classNames } from "../util/lang"
 import { visit } from "unist-util-visit"
 import { Root, Element, ElementContent } from "hast"
 import { GlobalConfiguration } from "../cfg"
@@ -240,12 +248,22 @@ export function renderPage(
   const doc = (
     <html lang={lang}>
       <Head {...componentData} />
-      <body data-slug={slug}>
-        <div id="quartz-root" class="page">
+      <body data-slug={slug} class={slug === "graph" ? "graph-full-page" : ""}>
+        <div
+          id="quartz-root"
+          class={classNames(undefined, "page", slug === "graph" ? "page-graph" : "")}
+        >
+          {slug === "graph" ? (
+            <div class="graph-back-home">
+              <a href={joinSegments(pathToRoot(slug), "index")} class="back-home-btn">
+                ← Back to Home
+              </a>
+            </div>
+          ) : null}
           <Body {...componentData}>
             {LeftComponent}
             <div class="center">
-              <div class="page-header">
+              <div class="page-header" style={{ display: slug === "graph" ? "none" : "block" }}>
                 <Header {...componentData}>
                   {header.map((HeaderComponent) => (
                     <HeaderComponent {...componentData} />
@@ -258,15 +276,15 @@ export function renderPage(
                 </div>
               </div>
               <Content {...componentData} />
-              <hr />
-              <div class="page-footer">
+              <hr style={{ display: slug === "graph" ? "none" : "block" }} />
+              <div class="page-footer" style={{ display: slug === "graph" ? "none" : "block" }}>
                 {afterBody.map((BodyComponent) => (
                   <BodyComponent {...componentData} />
                 ))}
               </div>
             </div>
             {RightComponent}
-            <Footer {...componentData} />
+            {slug !== "graph" ? <Footer {...componentData} /> : <></>}
           </Body>
         </div>
       </body>
