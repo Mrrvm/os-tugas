@@ -1,12 +1,12 @@
 @use "../../styles/variables.scss" as *;
 
 .graph {
-  &>h3 {
+  & > h3 {
     font-size: 1rem;
     margin: 0;
   }
 
-  &>.graph-outer {
+  & > .graph-outer {
     border-radius: 5px;
     border: 1px solid var(--lightgray);
     box-sizing: border-box;
@@ -15,7 +15,7 @@
     position: relative;
     overflow: hidden;
 
-    &>#global-graph-icon {
+    & > #global-graph-icon {
       cursor: pointer;
       background: none;
       border: none;
@@ -52,7 +52,7 @@
   left: 50%;
   transform: translateX(-50%);
 
-  &>#graph-page-container {
+  & > #graph-page-container {
     border: none;
     background-color: var(--light);
     box-sizing: border-box;
