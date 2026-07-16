@@ -16,8 +16,14 @@ import {
 } from "d3"
 import { Text, Graphics, Application, Container, Circle } from "pixi.js"
 import { Group as TweenGroup, Tween as Tweened } from "@tweenjs/tween.js"
-import { registerEscapeHandler, removeAllChildren } from "./util"
-import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
+import { removeAllChildren } from "./util"
+import {
+  FullSlug,
+  SimpleSlug,
+  getFullSlug,
+  resolveRelative,
+  simplifySlug,
+} from "../../util/path"
 import { D3Config } from "../Graph"
 
 type GraphicsInfo = {
@@ -556,52 +562,30 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   const slug = e.detail.url
   addToVisited(simplifySlug(slug))
   await renderGraph("graph-container", slug)
+  await renderGraph("graph-page-container", slug)
 
-  // Function to re-render the graph when the theme changes
   const handleThemeChange = () => {
     renderGraph("graph-container", slug)
+    renderGraph("graph-page-container", slug)
   }
 
-  // event listener for theme change
   document.addEventListener("themechange", handleThemeChange)
 
-  // cleanup for the event listener
   window.addCleanup(() => {
     document.removeEventListener("themechange", handleThemeChange)
   })
 
-  const container = document.getElementById("global-graph-outer")
-  const sidebar = container?.closest(".sidebar") as HTMLElement
-
-  function renderGlobalGraph() {
-    const slug = getFullSlug(window)
-    container?.classList.add("active")
-    if (sidebar) {
-      sidebar.style.zIndex = "1"
-    }
-
-    renderGraph("global-graph-container", slug)
-    registerEscapeHandler(container, hideGlobalGraph)
-  }
-
-  function hideGlobalGraph() {
-    container?.classList.remove("active")
-    if (sidebar) {
-      sidebar.style.zIndex = ""
-    }
-  }
+  const graphUrl = new URL(
+    resolveRelative(getFullSlug(window), "graph" as SimpleSlug),
+    window.location.toString(),
+  )
 
   async function shortcutHandler(e: HTMLElementEventMap["keydown"]) {
     if (e.key === "g" && (e.ctrlKey || e.metaKey) && !e.shiftKey) {
       e.preventDefault()
-      const globalGraphOpen = container?.classList.contains("active")
-      globalGraphOpen ? hideGlobalGraph() : renderGlobalGraph()
+      window.spaNavigate(graphUrl)
     }
   }
-
-  const containerIcon = document.getElementById("global-graph-icon")
-  containerIcon?.addEventListener("click", renderGlobalGraph)
-  window.addCleanup(() => containerIcon?.removeEventListener("click", renderGlobalGraph))
 
   document.addEventListener("keydown", shortcutHandler)
   window.addCleanup(() => document.removeEventListener("keydown", shortcutHandler))

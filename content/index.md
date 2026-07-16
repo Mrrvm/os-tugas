@@ -25,7 +25,7 @@ A collection of spaces for further research: [[sites]]
 A collection of dug artifacts waiting to be sorted: [[finds]]
 
 ### artifacts
-A collection of content I have sorted already and would like to use either theoretically or in the rewriting itself: https://os-tugas.mardrew.art/artifacts Some of the content is annotated already, other is not. The best way to navigate is by tags:** https://os-tugas.mardrew.art/tags, by using the node graph, or just delving into a random artifact.
+A collection of content I have sorted already and would like to use either theoretically or in the rewriting itself: https://isto-e-tudo-nosso.mardrew.art/artifacts Some of the content is annotated already, other is not. The best way to navigate is by tags:** https://isto-e-tudo-nosso.mardrew.art/tags, by using the node graph, or just delving into a random artifact.
 
 ### ideal external partners
 

@@ -4,6 +4,7 @@ import script from "./scripts/graph.inline"
 import style from "./styles/graph.scss"
 import { i18n } from "../i18n"
 import { classNames } from "../util/lang"
+import { resolveRelative, SimpleSlug } from "../util/path"
 
 export interface D3Config {
   drag: boolean
@@ -60,15 +61,19 @@ const defaultOptions: GraphOptions = {
 }
 
 export default ((opts?: Partial<GraphOptions>) => {
-  const Graph: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
+  const Graph: QuartzComponent = ({ displayClass, cfg, fileData }: QuartzComponentProps) => {
     const localGraph = { ...defaultOptions.localGraph, ...opts?.localGraph }
-    const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph }
     return (
       <div class={classNames(displayClass, "graph")}>
         <h3>{i18n(cfg.locale).components.graph.title}</h3>
         <div class="graph-outer">
           <div id="graph-container" data-cfg={JSON.stringify(localGraph)}></div>
-          <button id="global-graph-icon" aria-label="Global Graph">
+          <a
+            id="global-graph-icon"
+            class="internal"
+            href={resolveRelative(fileData.slug!, "graph" as SimpleSlug)}
+            aria-label="Global Graph"
+          >
             <svg
               version="1.1"
               xmlns="http://www.w3.org/2000/svg"
@@ -93,10 +98,7 @@ export default ((opts?: Partial<GraphOptions>) => {
                 s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"
               />
             </svg>
-          </button>
-        </div>
-        <div id="global-graph-outer">
-          <div id="global-graph-container" data-cfg={JSON.stringify(globalGraph)}></div>
+          </a>
         </div>
       </div>
     )

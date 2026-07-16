@@ -11,8 +11,8 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
-// Your graph configuration stays the same
-let graph = Component.Graph({
+// Shared graph configuration for sidebar and full-page graph views.
+export const graphOptions = {
   localGraph: {
     drag: true,
     zoom: true,
@@ -41,7 +41,9 @@ let graph = Component.Graph({
     showTags: true,
     enableRadial: true,
   },
-})
+}
+
+let graph = Component.Graph(graphOptions)
 
 // Layout for pages that display a single note (non-homepage)
 export const defaultContentPageLayout: PageLayout = {
