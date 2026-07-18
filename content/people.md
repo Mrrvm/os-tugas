@@ -6,7 +6,7 @@
 | Sandra Tavares         | S                    | S           |
 | Diego Silva            | S                    | S           |
 | Sofia Ó                | S                    | S           |
-| Milton                 | S                    | S           |
+| Milton Barreiro        | S                    | S           |
 | Dplx                   | S                    | S           |
 | Ivo Sengo              | S                    | S           |
 | Tavares Cebola         | S                    | S           |
