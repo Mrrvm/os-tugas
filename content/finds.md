@@ -243,3 +243,7 @@ Morgados
 Synagogue in Cabo Verde - Santo anto
 
 Casa comum fundação Mario soares, http://casacomum.org/cc/arquivos
+
+https://50anos25abril.pt/historia/
+https://50anos25abril.pt/noticias/
+https://50anos25abril.pt/historia/imprensa-anticolonial/
