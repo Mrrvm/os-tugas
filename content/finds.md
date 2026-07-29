@@ -251,3 +251,5 @@ https://50anos25abril.pt/historia/imprensa-anticolonial/
 https://pt.wikipedia.org/wiki/Marcelino_da_Mata
 
 https://www.youtube.com/watch?v=2AVG01pSTRA
+
+https://www.marxists.org/portugues/
