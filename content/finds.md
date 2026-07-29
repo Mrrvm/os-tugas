@@ -247,3 +247,5 @@ Casa comum fundação Mario soares, http://casacomum.org/cc/arquivos
 https://50anos25abril.pt/historia/
 https://50anos25abril.pt/noticias/
 https://50anos25abril.pt/historia/imprensa-anticolonial/
+
+https://pt.wikipedia.org/wiki/Marcelino_da_Mata
