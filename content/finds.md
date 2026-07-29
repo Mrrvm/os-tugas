@@ -255,3 +255,5 @@ https://www.youtube.com/watch?v=2AVG01pSTRA
 https://www.marxists.org/portugues/
 
 https://pt.wikipedia.org/wiki/Catarina_Euf%C3%A9mia
+
+https://pt.wikipedia.org/wiki/Maria_Isabel_Aboim_Ingl%C3%AAs
