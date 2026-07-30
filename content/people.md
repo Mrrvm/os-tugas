@@ -1,6 +1,6 @@
 | Name                   | Asked to participate | Sent invite |
 | ---------------------- | -------------------- | ----------- |
-| Sandim Mendes          | S                    |             |
+| Sandim Mendes          | S                    | S           |
 | Mariana Aboim          | S                    |             |
 | Margarida Agostinho    | S                    | S           |
 | Sandra Tavares         | S                    | S           |
