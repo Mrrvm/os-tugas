@@ -263,3 +263,14 @@ https://a25abril.pt/wp-content/uploads/2019/01/DescolonizacaoFabiao.pdf#:~:text=
 https://multimedia.expresso.pt/25deabrilguine/#:~:text=A%20nossa%20luta%20n%C3%A3o%20%C3%A9%20contra%20os%20brancos,%20**n%C3%A3o%20%C3%A9%20contra%20os%20portugueses.%20%C3%89%20contra%20o%20sistema%20colonial%20portugu%C3%AAs**,%20que%20nos%20oprime%20aqui
 
 https://www.rtp.pt/play/palco/p14060/e821299/os-lusiadas
+
+[07/07/2026, 12:23:12] Mariana: Djaimilia pereira de almeida, livro da doenca
+[07/07/2026, 12:23:20] Mariana: Mario de Andrade
+[07/07/2026, 12:27:42] Mariana: julio de almeida, o incesto real
+[07/07/2026, 12:31:53] Mariana: aida gomes
+[07/07/2026, 12:33:09] Mariana: ungulani ba ka khosa
+[07/07/2026, 12:38:14] Mariana: jefferson tenório
+[07/07/2026, 12:41:00] Mariana: victor de oliveira , limbo kumina
+[07/07/2026, 12:45:40] Mariana: vanessa passos
+
+https://revistaecopos.eco.ufrj.br/eco_pos/article/view/27640
