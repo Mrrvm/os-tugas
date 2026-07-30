@@ -261,3 +261,5 @@ https://pt.wikipedia.org/wiki/Maria_Isabel_Aboim_Ingl%C3%AAs
 https://a25abril.pt/wp-content/uploads/2019/01/DescolonizacaoFabiao.pdf#:~:text=uma%20guerra%20subversiva%20nunca%20est%C3%A1%20definitivamente%20ganha
 
 https://multimedia.expresso.pt/25deabrilguine/#:~:text=A%20nossa%20luta%20n%C3%A3o%20%C3%A9%20contra%20os%20brancos,%20**n%C3%A3o%20%C3%A9%20contra%20os%20portugueses.%20%C3%89%20contra%20o%20sistema%20colonial%20portugu%C3%AAs**,%20que%20nos%20oprime%20aqui
+
+https://www.rtp.pt/play/palco/p14060/e821299/os-lusiadas
